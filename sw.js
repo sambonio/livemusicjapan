@@ -1,4 +1,4 @@
-const CACHE = 'lmj-v1';
+const CACHE = 'lmj-v2';
 const ASSETS = ['./', './index.html', './app.js', './style.css', './manifest.webmanifest',
   './i18n/ja.json', './i18n/en.json', './data/events.json', './icons/icon-192.png', './icons/icon-512.png'];
 

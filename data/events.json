@@ -1,20 +1,233 @@
 {
-  "venues": {
-    "shelter": {"name": {"ja": "下北沢SHELTER", "en": "Shimokitazawa SHELTER"}, "area": {"ja": "下北沢", "en": "Shimokitazawa"}, "city": "tokyo", "station": {"ja": "下北沢駅 徒歩3分", "en": "3 min walk from Shimokitazawa Stn."}, "address": "東京都世田谷区北沢2-6-10", "capacity": 250, "cards": false, "english": false},
-    "www": {"name": {"ja": "渋谷WWW", "en": "Shibuya WWW"}, "area": {"ja": "渋谷", "en": "Shibuya"}, "city": "tokyo", "station": {"ja": "渋谷駅 徒歩7分", "en": "7 min walk from Shibuya Stn."}, "address": "東京都渋谷区宇田川町13-17", "capacity": 500, "cards": true, "english": true},
-    "quattro": {"name": {"ja": "渋谷CLUB QUATTRO", "en": "Shibuya CLUB QUATTRO"}, "area": {"ja": "渋谷", "en": "Shibuya"}, "city": "tokyo", "station": {"ja": "渋谷駅 徒歩5分", "en": "5 min walk from Shibuya Stn."}, "address": "東京都渋谷区宇田川町32-13", "capacity": 800, "cards": true, "english": true},
-    "ufoclub": {"name": {"ja": "高円寺UFO CLUB", "en": "Koenji UFO CLUB"}, "area": {"ja": "高円寺", "en": "Koenji"}, "city": "tokyo", "station": {"ja": "東高円寺駅 徒歩5分", "en": "5 min walk from Higashi-Koenji Stn."}, "address": "東京都杉並区高円寺南3-11-6", "capacity": 150, "cards": false, "english": false},
-    "bigcat": {"name": {"ja": "心斎橋BIGCAT", "en": "Shinsaibashi BIGCAT"}, "area": {"ja": "心斎橋", "en": "Shinsaibashi"}, "city": "osaka", "station": {"ja": "心斎橋駅 徒歩5分", "en": "5 min walk from Shinsaibashi Stn."}, "address": "大阪府大阪市中央区西心斎橋1-6-14", "capacity": 800, "cards": true, "english": true},
-    "taku": {"name": {"ja": "京都 磔磔", "en": "Kyoto Taku-Taku"}, "area": {"ja": "四条", "en": "Shijo"}, "city": "kyoto", "station": {"ja": "四条駅 徒歩8分", "en": "8 min walk from Shijo Stn."}, "address": "京都府京都市下京区富小路通仏光寺下ル", "capacity": 200, "cards": false, "english": false}
+ "sample": true,
+ "venues": {
+  "shelter": {
+   "name": {
+    "ja": "下北沢SHELTER",
+    "en": "Shimokitazawa SHELTER"
+   },
+   "area": {
+    "ja": "下北沢",
+    "en": "Shimokitazawa"
+   },
+   "city": "tokyo",
+   "station": {
+    "ja": "下北沢駅 徒歩3分",
+    "en": "3 min walk from Shimokitazawa Stn."
+   },
+   "address": "東京都世田谷区北沢2-6-10",
+   "capacity": 250,
+   "cards": false,
+   "english": false
   },
-  "events": [
-    {"id": 1, "date": "2026-10-18", "open": "18:00", "start": "18:30", "artist": {"ja": "サンプル・バンドA", "en": "Sample Band A"}, "venue": "shelter", "genre": "rock", "price": 3000, "drink": 600},
-    {"id": 2, "date": "2026-10-18", "open": "19:00", "start": "20:00", "artist": {"ja": "ナイトシティ", "en": "Night City"}, "venue": "www", "genre": "electronic", "price": 4500, "drink": 600},
-    {"id": 3, "date": "2026-10-19", "open": "18:30", "start": "19:00", "artist": {"ja": "東京ジャズ・トリオ", "en": "Tokyo Jazz Trio"}, "venue": "quattro", "genre": "jazz", "price": 5000, "drink": 600},
-    {"id": 4, "date": "2026-10-20", "open": "19:00", "start": "19:30", "artist": {"ja": "サイケ・ムーン", "en": "Psyche Moon"}, "venue": "ufoclub", "genre": "rock", "price": 2500, "drink": 600},
-    {"id": 5, "date": "2026-10-21", "open": "18:00", "start": "19:00", "artist": {"ja": "なにわパンクス", "en": "Naniwa Punks"}, "venue": "bigcat", "genre": "punk", "price": 3500, "drink": 600},
-    {"id": 6, "date": "2026-10-23", "open": "18:30", "start": "19:00", "artist": {"ja": "古都ブルース", "en": "Old Capital Blues"}, "venue": "taku", "genre": "blues", "price": 3800, "drink": 500},
-    {"id": 7, "date": "2026-10-24", "open": "17:30", "start": "18:00", "artist": {"ja": "アイドル・フェス秋", "en": "Idol Fest Autumn"}, "venue": "quattro", "genre": "idol", "price": 4000, "drink": 600},
-    {"id": 8, "date": "2026-10-25", "open": "18:00", "start": "18:30", "artist": {"ja": "シティポップ・ナイト", "en": "City Pop Night"}, "venue": "www", "genre": "pop", "price": 4200, "drink": 600}
-  ]
+  "www": {
+   "name": {
+    "ja": "渋谷WWW",
+    "en": "Shibuya WWW"
+   },
+   "area": {
+    "ja": "渋谷",
+    "en": "Shibuya"
+   },
+   "city": "tokyo",
+   "station": {
+    "ja": "渋谷駅 徒歩7分",
+    "en": "7 min walk from Shibuya Stn."
+   },
+   "address": "東京都渋谷区宇田川町13-17",
+   "capacity": 500,
+   "cards": true,
+   "english": true
+  },
+  "quattro": {
+   "name": {
+    "ja": "渋谷CLUB QUATTRO",
+    "en": "Shibuya CLUB QUATTRO"
+   },
+   "area": {
+    "ja": "渋谷",
+    "en": "Shibuya"
+   },
+   "city": "tokyo",
+   "station": {
+    "ja": "渋谷駅 徒歩5分",
+    "en": "5 min walk from Shibuya Stn."
+   },
+   "address": "東京都渋谷区宇田川町32-13",
+   "capacity": 800,
+   "cards": true,
+   "english": true
+  },
+  "ufoclub": {
+   "name": {
+    "ja": "高円寺UFO CLUB",
+    "en": "Koenji UFO CLUB"
+   },
+   "area": {
+    "ja": "高円寺",
+    "en": "Koenji"
+   },
+   "city": "tokyo",
+   "station": {
+    "ja": "東高円寺駅 徒歩5分",
+    "en": "5 min walk from Higashi-Koenji Stn."
+   },
+   "address": "東京都杉並区高円寺南3-11-6",
+   "capacity": 150,
+   "cards": false,
+   "english": false
+  },
+  "bigcat": {
+   "name": {
+    "ja": "心斎橋BIGCAT",
+    "en": "Shinsaibashi BIGCAT"
+   },
+   "area": {
+    "ja": "心斎橋",
+    "en": "Shinsaibashi"
+   },
+   "city": "osaka",
+   "station": {
+    "ja": "心斎橋駅 徒歩5分",
+    "en": "5 min walk from Shinsaibashi Stn."
+   },
+   "address": "大阪府大阪市中央区西心斎橋1-6-14",
+   "capacity": 800,
+   "cards": true,
+   "english": true
+  },
+  "taku": {
+   "name": {
+    "ja": "京都 磔磔",
+    "en": "Kyoto Taku-Taku"
+   },
+   "area": {
+    "ja": "四条",
+    "en": "Shijo"
+   },
+   "city": "kyoto",
+   "station": {
+    "ja": "四条駅 徒歩8分",
+    "en": "8 min walk from Shijo Stn."
+   },
+   "address": "京都府京都市下京区富小路通仏光寺下ル",
+   "capacity": 200,
+   "cards": false,
+   "english": false
+  }
+ },
+ "events": [
+  {
+   "id": 1,
+   "date": "2026-10-18",
+   "open": "18:00",
+   "start": "18:30",
+   "artist": {
+    "ja": "サンプル・バンドA",
+    "en": "Sample Band A"
+   },
+   "venue": "shelter",
+   "genre": "rock",
+   "price": 3000,
+   "drink": 600
+  },
+  {
+   "id": 2,
+   "date": "2026-10-18",
+   "open": "19:00",
+   "start": "20:00",
+   "artist": {
+    "ja": "ナイトシティ",
+    "en": "Night City"
+   },
+   "venue": "www",
+   "genre": "electronic",
+   "price": 4500,
+   "drink": 600
+  },
+  {
+   "id": 3,
+   "date": "2026-10-19",
+   "open": "18:30",
+   "start": "19:00",
+   "artist": {
+    "ja": "東京ジャズ・トリオ",
+    "en": "Tokyo Jazz Trio"
+   },
+   "venue": "quattro",
+   "genre": "jazz",
+   "price": 5000,
+   "drink": 600
+  },
+  {
+   "id": 4,
+   "date": "2026-10-20",
+   "open": "19:00",
+   "start": "19:30",
+   "artist": {
+    "ja": "サイケ・ムーン",
+    "en": "Psyche Moon"
+   },
+   "venue": "ufoclub",
+   "genre": "rock",
+   "price": 2500,
+   "drink": 600
+  },
+  {
+   "id": 5,
+   "date": "2026-10-21",
+   "open": "18:00",
+   "start": "19:00",
+   "artist": {
+    "ja": "なにわパンクス",
+    "en": "Naniwa Punks"
+   },
+   "venue": "bigcat",
+   "genre": "punk",
+   "price": 3500,
+   "drink": 600
+  },
+  {
+   "id": 6,
+   "date": "2026-10-23",
+   "open": "18:30",
+   "start": "19:00",
+   "artist": {
+    "ja": "古都ブルース",
+    "en": "Old Capital Blues"
+   },
+   "venue": "taku",
+   "genre": "blues",
+   "price": 3800,
+   "drink": 500
+  },
+  {
+   "id": 7,
+   "date": "2026-10-24",
+   "open": "17:30",
+   "start": "18:00",
+   "artist": {
+    "ja": "アイドル・フェス秋",
+    "en": "Idol Fest Autumn"
+   },
+   "venue": "quattro",
+   "genre": "idol",
+   "price": 4000,
+   "drink": 600
+  },
+  {
+   "id": 8,
+   "date": "2026-10-25",
+   "open": "18:00",
+   "start": "18:30",
+   "artist": {
+    "ja": "シティポップ・ナイト",
+    "en": "City Pop Night"
+   },
+   "venue": "www",
+   "genre": "pop",
+   "price": 4200,
+   "drink": 600
+  }
+ ]
 }

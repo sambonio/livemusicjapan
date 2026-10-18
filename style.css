@@ -8,13 +8,13 @@
 body { margin: 0; font-family: system-ui, -apple-system, "Hiragino Sans", "Noto Sans JP", sans-serif;
   background: var(--bg); color: var(--text); padding-bottom: env(safe-area-inset-bottom); }
 header { display: flex; justify-content: space-between; align-items: center; gap: 12px;
-  padding: calc(14px + env(safe-area-inset-top)) 16px 12px; background: var(--accent); color: #fff; }
+  padding: calc(14px + env(safe-area-inset-top)) max(16px, calc((100% - 720px) / 2 + 16px)) 12px; background: var(--accent); color: #fff; }
 h1 { font-size: 1.25rem; margin: 0; }
 .tagline { margin: 2px 0 0; font-size: .85rem; opacity: .9; }
 header select { background: rgba(255,255,255,.15); color: #fff; border: 1px solid rgba(255,255,255,.5); }
 header select option { color: #000; }
 select { font: inherit; padding: 6px 8px; border-radius: 8px; border: 1px solid var(--line); background: var(--card); color: var(--text); }
-.filters { padding: 12px 16px 4px; display: grid; gap: 10px; }
+.filters { padding: 12px 16px 4px; display: grid; gap: 10px; max-width: 720px; margin: 0 auto; }
 .chips { display: flex; gap: 8px; }
 .chips button { font: inherit; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--line);
   background: var(--card); color: var(--text); cursor: pointer; }

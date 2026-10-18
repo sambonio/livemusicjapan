@@ -36,10 +36,18 @@ function buildFilters() {
 
 const isoDate = d => d.toLocaleDateString('sv-SE'); // YYYY-MM-DD in local time
 
+// Sample data only: move the gigs so the first one is today, so the demo never runs empty
+function shiftSampleDates() {
+  const first = data.events.map(e => e.date).sort()[0];
+  const offset = new Date(isoDate(new Date()) + 'T12:00') - new Date(first + 'T12:00');
+  for (const e of data.events) e.date = isoDate(new Date(new Date(e.date + 'T12:00').getTime() + offset));
+}
+
 function matches(e) {
   const v = data.venues[e.venue];
   const today = isoDate(new Date());
   const weekEnd = isoDate(new Date(Date.now() + 6 * 864e5));
+  if (e.date < today) return false;
   if (filters.when === 'today' && e.date !== today) return false;
   if (filters.when === 'week' && (e.date < today || e.date > weekEnd)) return false;
   if (filters.city && v.city !== filters.city) return false;
@@ -98,6 +106,7 @@ window.addEventListener('offline', showOffline);
 (async () => {
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
   data = await fetch('data/events.json').then(r => r.json());
+  if (data.sample) shiftSampleDates();
   const code = pickLang();
   langSel.value = code;
   await loadLang(code);

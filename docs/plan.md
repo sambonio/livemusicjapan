@@ -47,3 +47,8 @@ Recommendation: start with a hand-curated set of venues in one or two areas of T
 - Confirm gig listings as the first feature (or tickets / maps instead).
 - A name and look: keep "LiveMusicJapan 24/7"?
 - Any venues, promoters or ticket platforms you already have contacts with.
+
+## 7. Later: AI agent (Matthias's long-term vision)
+- **In-app assistant:** visitors ask in any language ("punk tonight near Shibuya, card OK, under ¥4,000") and get answers from the listings.
+- **Background agent:** collects venue schedules daily, translates them, keeps listings fresh.
+- **Be findable by other AIs:** search is shifting to AI assistants, so mark every gig up as schema.org `Event` data and later offer a public API / MCP connector that assistants like Claude can query.

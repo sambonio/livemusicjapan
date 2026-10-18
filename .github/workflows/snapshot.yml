@@ -1,0 +1,27 @@
+name: Snapshot venue schedule pages
+# Manual helper: saves the raw HTML of each venue schedule page so importers can be written against it.
+on: workflow_dispatch
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          mkdir snap && cd snap
+          UA="LiveMusicJapanBot/0.1 (+https://sambonio.github.io/livemusicjapan/)"
+          for pair in \
+            shelter=https://www.loft-prj.co.jp/schedule/shelter \
+            loft=https://www.loft-prj.co.jp/schedule/loft \
+            www=https://www-shibuya.jp/schedule/ \
+            liquidroom=https://www.liquidroom.net/schedule \
+            ufoclub=https://www.ufoclub.jp/schedule/ \
+            pitinn=https://pit-inn.com/schedule \
+            unit=https://www.unit-tokyo.com/schedule/ ; do
+            name=${pair%%=*}; url=${pair#*=}
+            curl -sSL -A "$UA" -o "$name.html" -w "$name %{http_code} %{size_download}\n" "$url" || echo "$name failed"
+            curl -sSL -A "$UA" -o "$name.robots.txt" "$(echo $url | cut -d/ -f1-3)/robots.txt" || true
+            sleep 2
+          done
+      - uses: actions/upload-artifact@v4
+        with:
+          name: snapshots
+          path: snap

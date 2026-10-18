@@ -1,0 +1,10 @@
+# LiveMusicJapan 24/7 prototype
+
+Installable web app (PWA) with sample gig listings in Japanese and English. No build step.
+
+Run locally: `python3 -m http.server 8000` in this folder, then open http://localhost:8000.
+Install: Android/Chrome shows an "Add to home screen" button; on iPhone use Safari's Share > Add to Home Screen.
+(Installing from a phone needs HTTPS, so that works once it is deployed.)
+
+Add a language: copy `i18n/en.json` to `i18n/<code>.json`, translate it, and add the code to `LANGS` in `app.js`.
+Data: `data/events.json` (sample data only).

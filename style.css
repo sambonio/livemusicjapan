@@ -29,6 +29,8 @@ main { padding: 8px 16px 24px; display: grid; gap: 12px; max-width: 720px; margi
 .meta { margin: 6px 0 0; color: var(--muted); font-size: .88rem; }
 .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; }
 .tag { font-size: .75rem; padding: 3px 8px; border-radius: 6px; background: var(--bg); border: 1px solid var(--line); }
+.tag.bad { border-color: #c0392b; color: #c0392b; }
+.subtitle { margin: 0 0 4px; font-size: .88rem; color: var(--muted); }
 .tag.good { border-color: #2e9e6a; color: #2e9e6a; }
 .card a { color: var(--accent); font-size: .88rem; }
 .empty, footer { color: var(--muted); text-align: center; font-size: .85rem; }

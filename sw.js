@@ -1,6 +1,6 @@
-const CACHE = 'lmj-v2';
+const CACHE = 'lmj-v3';
 const ASSETS = ['./', './index.html', './app.js', './style.css', './manifest.webmanifest',
-  './i18n/ja.json', './i18n/en.json', './data/events.json', './icons/icon-192.png', './icons/icon-512.png'];
+  './i18n/ja.json', './i18n/en.json', './data/events.json', './data/live-events.json', './icons/icon-192.png', './icons/icon-512.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)));

@@ -56,9 +56,12 @@ function matches(e) {
   return true;
 }
 
+// Listings come from venue websites, so never insert their text as HTML
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
+
 function render() {
   const list = document.getElementById('list');
-  const events = data.events.filter(matches).sort((a, b) => (a.date + a.start).localeCompare(b.date + b.start));
+  const events = data.events.filter(matches).sort((a, b) => (a.date + (a.start || '')).localeCompare(b.date + (b.start || '')));
   if (!events.length) { list.innerHTML = `<p class="empty">${t.none}</p>`; return; }
   const dayFmt = new Intl.DateTimeFormat(lang, { month: 'short', day: 'numeric', weekday: 'short' });
   const yen = new Intl.NumberFormat(lang, { style: 'currency', currency: 'JPY' });
@@ -66,15 +69,21 @@ function render() {
   for (const e of events) {
     const v = data.venues[e.venue];
     if (e.date !== lastDay) { html += `<h3 class="day">${dayFmt.format(new Date(e.date + 'T12:00'))}</h3>`; lastDay = e.date; }
-    const mapUrl = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(v.address);
+    const mapUrl = 'https://www.google.com/maps/search/?api=1&query=' + encodeURIComponent(v.address || v.name.en || v.name.ja);
+    const title = loc(e.title);
+    const timesText = [e.open && `${t.open} ${e.open}`, e.start && e.start !== e.open && `${t.start} ${e.start}`].filter(Boolean).join(' / ');
+    const priceText = e.price != null ? yen.format(e.price) + (e.drink ? ` + ${t.drink} ${yen.format(e.drink)}` : '') : '';
+    const place = [loc(v.station), v.capacity && `${t.capacity} ${v.capacity}`].filter(Boolean).map(esc).join(' · ');
     html += `<article class="card">
-      <h2>${loc(e.artist)}</h2>
-      <p class="venue">${loc(v.name)} · ${loc(v.area)}</p>
-      <p class="meta">${t.open} ${e.open} / ${t.start} ${e.start} · ${yen.format(e.price)} + ${t.drink} ${yen.format(e.drink)}</p>
-      <p class="meta">${loc(v.station)} · ${t.capacity} ${v.capacity} · <a href="${mapUrl}" target="_blank" rel="noopener">${t.map}</a></p>
+      <h2>${esc(loc(e.artist))}</h2>
+      ${title && title !== loc(e.artist) ? `<p class="subtitle">${esc(title)}</p>` : ''}
+      <p class="venue">${esc(loc(v.name))} · ${esc(loc(v.area))}</p>
+      <p class="meta">${[timesText, priceText].filter(Boolean).map(esc).join(' · ')}</p>
+      <p class="meta">${place} · <a href="${esc(mapUrl)}" target="_blank" rel="noopener">${t.map}</a>${e.url ? ` · <a href="${esc(e.url)}" target="_blank" rel="noopener">${t.details}</a>` : ''}</p>
       <div class="tags">
-        <span class="tag">${t[e.genre] || e.genre}</span>
-        ${v.cards ? `<span class="tag good">${t.cards}</span>` : `<span class="tag">${t.cash_only}</span>`}
+        <span class="tag">${esc(t[e.genre] || e.genre)}</span>
+        ${e.soldOut ? `<span class="tag bad">${t.sold_out}</span>` : ''}
+        ${v.cards === true ? `<span class="tag good">${t.cards}</span>` : v.cards === false ? `<span class="tag">${t.cash_only}</span>` : ''}
         ${v.english ? `<span class="tag good">${t.english}</span>` : ''}
       </div>
     </article>`;
@@ -105,7 +114,9 @@ window.addEventListener('offline', showOffline);
 
 (async () => {
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
-  data = await fetch('data/events.json').then(r => r.json());
+  // ?live previews the real listings collected from venue sites
+  const live = new URLSearchParams(location.search).has('live');
+  data = await fetch(live ? 'data/live-events.json' : 'data/events.json').then(r => r.json());
   if (data.sample) shiftSampleDates();
   const code = pickLang();
   langSel.value = code;

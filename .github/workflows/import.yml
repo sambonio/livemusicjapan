@@ -1,0 +1,27 @@
+name: Import venue listings
+# Every day at 05:00 JST, collect upcoming gigs from the venue websites into data/live-events.json
+on:
+  schedule:
+    - cron: "0 20 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: import
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r importers/requirements.txt
+      - run: python importers/import_venues.py
+      - name: Commit if listings changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/live-events.json
+          git diff --cached --quiet -I '"updated"' && echo "No changes" && exit 0
+          git commit -m "Update venue listings $(TZ=Asia/Tokyo date +%F)"
+          git push

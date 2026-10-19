@@ -46,6 +46,28 @@ VENUES = {
     "unit": {"name": {"ja": "代官山UNIT", "en": "Daikanyama UNIT"}, "area": {"ja": "代官山", "en": "Daikanyama"},
              "city": "tokyo", "station": {"ja": "代官山駅", "en": "Daikanyama Stn."}, "genre": "various",
              "site": "https://www.unit-tokyo.com/schedule/"},
+    "quattro_shibuya": {"name": {"ja": "渋谷CLUB QUATTRO", "en": "Shibuya CLUB QUATTRO"}, "area": {"ja": "渋谷", "en": "Shibuya"},
+                        "city": "tokyo", "station": {"ja": "渋谷駅", "en": "Shibuya Stn."}, "genre": "various",
+                        "site": "https://www.club-quattro.com/shibuya/schedule/"},
+    "quattro_umeda": {"name": {"ja": "梅田CLUB QUATTRO", "en": "Umeda CLUB QUATTRO"}, "area": {"ja": "梅田", "en": "Umeda"},
+                      "city": "osaka", "station": {"ja": "梅田駅", "en": "Umeda Stn."}, "genre": "various",
+                      "site": "https://www.club-quattro.com/umeda/schedule/"},
+    "bigcat": {"name": {"ja": "心斎橋BIGCAT", "en": "Shinsaibashi BIGCAT"}, "area": {"ja": "心斎橋", "en": "Shinsaibashi"},
+               "city": "osaka", "station": {"ja": "心斎橋駅", "en": "Shinsaibashi Stn."}, "genre": "various",
+               "site": "https://bigcat-live.com/schedule/"},
+    "janus": {"name": {"ja": "心斎橋JANUS", "en": "Shinsaibashi JANUS"}, "area": {"ja": "心斎橋", "en": "Shinsaibashi"},
+              "city": "osaka", "station": {"ja": "心斎橋駅", "en": "Shinsaibashi Stn."}, "genre": "various",
+              "site": "https://janusosaka.com/schedule"},
+    "socore": {"name": {"ja": "SOCORE FACTORY", "en": "SOCORE FACTORY"}, "area": {"ja": "南堀江", "en": "Minami-Horie"},
+               "city": "osaka", "genre": "various", "site": "https://socorefactory.com/schedule/"},
+    "quattro_nagoya": {"name": {"ja": "名古屋CLUB QUATTRO", "en": "Nagoya CLUB QUATTRO"}, "area": {"ja": "栄", "en": "Sakae"},
+                       "city": "nagoya", "station": {"ja": "矢場町駅", "en": "Yabacho Stn."}, "genre": "various",
+                       "site": "https://www.club-quattro.com/nagoya/schedule/"},
+    "metro": {"name": {"ja": "京都METRO", "en": "Kyoto METRO"}, "area": {"ja": "丸太町", "en": "Marutamachi"},
+              "city": "kyoto", "station": {"ja": "神宮丸太町駅", "en": "Jingu-Marutamachi Stn."}, "genre": "various",
+              "site": "https://www.metro.ne.jp/schedule/"},
+    "nano": {"name": {"ja": "京都 Live House nano", "en": "Kyoto Live House nano"}, "area": {"ja": "二条", "en": "Nijo"},
+             "city": "kyoto", "genre": "rock", "site": "http://livehouse-nano.com/schedule.php"},
 }
 
 
@@ -54,9 +76,10 @@ def text(el):
 
 
 def first_yen(s):
-    """Lowest ¥ amount in a price string, or None."""
-    nums = [int(n.replace(",", "")) for n in re.findall(r"[¥￥]\s*([\d,]{3,})", s or "")]
-    return min(nums) if nums else None
+    """First ¥ amount in a price string (usually the advance price), or None."""
+    found = [(m.start(), m[1]) for m in re.finditer(r"[¥￥\\]\s*([\d,]{3,})", s or "")]
+    found += [(m.start(), m[1]) for m in re.finditer(r"([\d,]{3,})\s*(?:yen|円)", s or "", re.I)]
+    return int(min(found)[1].replace(",", "")) if found else None
 
 
 def times(s):
@@ -187,6 +210,115 @@ def parse_unit(html, page_url, today):
     return out
 
 
+def parse_quattro(venue):
+    def parse(html, page_url, today):
+        soup = BeautifulSoup(html, "html.parser")
+        out = []
+        for li in soup.select("li.list-item[data-event-date]"):
+            try:
+                d = date.fromisoformat(li["data-event-date"])
+            except ValueError:
+                continue
+            a = li.find("a", href=True)
+            info = {text(b.dt): text(b.dd) for b in li.select("dl.detail-list .bundle") if b.dt}
+            o, s_ = times(info.get("開場/開演", ""))
+            out.append(event(venue, d, text(li.select_one(".txt-02")), text(li.select_one(".txt-01")), o, s_,
+                             info.get("料金", ""), "https://www.club-quattro.com" + a["href"] if a and a["href"].startswith("/") else page_url))
+        return out
+    return parse
+
+
+def parse_bigcat(html, page_url, today):
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for block in soup.select("div.archive_block"):
+        m = re.match(r"(\d{1,2})\.(\d{1,2})", text(block.select_one(".date_txt")))
+        if not m:
+            continue
+        mo, d = int(m[1]), int(m[2])
+        info = {text(dl.dt): text(dl.dd) for dl in block.select(".info dl") if dl.dt}
+        price = " / ".join(f"{k} {v}" for k, v in info.items() if k in ("ADV", "DOOR"))
+        a = block.find("a", href=re.compile(r"bigcat-live\.com/"))
+        out.append(event("bigcat", date(year_for(mo, today), mo, d), text(block.select_one(".ttl")),
+                         text(block.select_one(".artist")) or info.get("LIVE INFO", "").split("＜")[0].strip(),
+                         info.get("OPEN"), info.get("START") or info.get("OPEN"), price, a["href"] if a else page_url))
+    return out
+
+
+def parse_janus(html, page_url, today):
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for item in soup.select("div.c-scheduleList__inner"):
+        mo = re.match(r"(\d{1,2})", text(item.select_one(".c-scheduleList__date--month")))
+        d = text(item.select_one(".c-scheduleList__date--date"))
+        if not (mo and d.isdigit()):
+            continue
+        dts = [text(x) for x in item.select(".c-scheduleList__body dt")]
+        dds = [text(x) for x in item.select(".c-scheduleList__body dd")]
+        info = dict(zip(dts, dds))
+        o, s_ = times(info.get("OPEN/START", ""))
+        mo = int(mo[1])
+        out.append(event("janus", date(year_for(mo, today), mo, int(d)), text(item.select_one(".c-scheduleList__head--title")),
+                         text(item.select_one(".c-scheduleList__head--act")), o, s_, info.get("ADV/DOOR", ""), page_url))
+    return out
+
+
+def parse_socore(html, page_url, today):
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for item in soup.select("div.schedule"):
+        a = item.select_one("a[href*='/schedule/20']")
+        m = re.search(r"/schedule/(\d{4})/(\d{2})/(\d{2})/", a["href"]) if a else None
+        if not m:
+            continue
+        body = item.select_one(".e-right")
+        act = item.select_one("p.act")
+        acts = re.sub(r"^Act:\s*", "", text(act)) if act else ""
+        info = text(body.find_all("p")[-1]) if body and body.find_all("p") else ""
+        o, s_ = times(info)
+        if not (acts or o or s_):  # maintenance / closed days
+            continue
+        out.append(event("socore", date(int(m[1]), int(m[2]), int(m[3])), text(body.find("h3")) if body else "",
+                         acts[:200], o, s_, info, a["href"]))
+    return out
+
+
+def parse_metro(html, page_url, today):
+    soup = BeautifulSoup(html, "html.parser")
+    out = []
+    for item in soup.select("div.type-tribe_events"):
+        a = item.select_one("a.tribe-event-url")
+        m = re.search(r"/schedule/(\d{2})(\d{2})(\d{2})", a["href"]) if a else None
+        if not m:
+            continue
+        info = text(item.select_one(".info-data"))
+        o, s_ = times(info)
+        title = text(a)
+        out.append(event("metro", date(2000 + int(m[1]), int(m[2]), int(m[3])), title, title, o, s_, info, a["href"]))
+    return out
+
+
+def parse_nano(html, page_url, today):
+    soup = BeautifulSoup(html, "html.parser")
+    page = page_url.rsplit("/", 1)[-1]
+    link = soup.select_one(f".links a[href='{page}']")
+    m = re.match(r"(\d{4})/(\d{1,2})", text(link)) if link else None
+    if not m:
+        return []
+    y, mo = int(m[1]), int(m[2])
+    out = []
+    for item in soup.select("div.schedule_wrapper"):
+        d = re.match(r"(\d{1,2})", text(item.select_one("p.date")))
+        band = text(item.select_one("p.band"))
+        if not (d and band):  # days without a lineup are closed days
+            continue
+        info = text(item.select_one("p.info"))
+        o, s_ = times(info)
+        out.append(event("nano", date(y, mo, int(d[1])), text(item.select_one("span.red")).strip("『』 "), band, o, s_,
+                         info, page_url))
+    return out
+
+
 def sources(today):
     """(snapshot name, parser, [this month's URL, next month's URL])"""
     nxt = (today.replace(day=1) + timedelta(days=32)).replace(day=1)
@@ -199,6 +331,14 @@ def sources(today):
         ("pitinn", parse_pitinn, ["https://pit-inn.com/schedule", "https://pit-inn.com/schedule-day",
                                   "https://pit-inn.com/next-schedule"]),
         ("unit", parse_unit, ["https://www.unit-tokyo.com/schedule/", f"https://www.unit-tokyo.com/schedule/{nxt:%Y-%m}/"]),
+        *[(f"quattro_{shop}", parse_quattro(f"quattro_{shop}"),
+           [f"https://www.club-quattro.com/{shop}/schedule/", f"https://www.club-quattro.com/{shop}/schedule/?ym={nxt:%Y%m}"])
+          for shop in ("shibuya", "umeda", "nagoya")],
+        ("bigcat", parse_bigcat, ["https://bigcat-live.com/schedule/", f"https://bigcat-live.com/{nxt:%Y/%m}"]),
+        ("janus", parse_janus, ["https://janusosaka.com/schedule/", f"https://janusosaka.com/schedule/{nxt:%Y-%m}"]),
+        ("socore", parse_socore, ["https://socorefactory.com/schedule/", f"https://socorefactory.com/{nxt:%Y/%m}/"]),
+        ("metro", parse_metro, ["https://www.metro.ne.jp/schedule/"]),
+        ("nano", parse_nano, ["http://livehouse-nano.com/schedule.php", "http://livehouse-nano.com/schedule_next.php"]),
     ]
 
 

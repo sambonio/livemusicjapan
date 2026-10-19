@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <!-- Google Tag Manager -->
+<script>
+    (function() {
+        // ホスト名 => 言語への参照リスト
+        var hostToLangList = {
+            'en.club-quattro.com': 'EN',
+            'cn.club-quattro.com': 'CN', //簡体
+            'tw.club-quattro.com': 'TW', //繁体
+            'ko.club-quattro.com': 'KO',
+        };
+
+        // 言語 => GTMトラッキングIDへの参照リスト
+        var langToTrackingIdList = {
+            'EN': 'GTM-MXZXXVMZ',
+            'CN': 'GTM-M6WFX2H5',
+            'TW': 'GTM-PJF5L7KP',
+            'KO': 'GTM-W3LW54XV',
+        };
+
+        // デフォルトのトラッキングID
+        var defaultTrackingId = 'GTM-MM99DM2'; // 日本語用
+
+        var host = location.host;
+        var lang = hostToLangList[host] || 'JP';
+        var trackingId = langToTrackingIdList[lang] || defaultTrackingId; // hostToLangList以外のドメインはdefaultTrackingIdを使用
+
+
+        //languageボタンの設定
+        // document.addEventListener("DOMContentLoaded", () => {
+        //     const langElement = document.querySelector('.js-lang');
+        //     if (langElement) {
+        //         langElement.textContent = lang;
+        //     }
+        // });
+
+
+        (function(w,d,s,l,i){
+            w[l]=w[l]||[];
+            w[l].push({'gtm.start': new Date().getTime(), event:'gtm.js'});
+            var f=d.getElementsByTagName(s)[0], j=d.createElement(s), dl=l!='dataLayer'?'&l='+l:'';
+            j.async=true;
+            j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;
+            f.parentNode.insertBefore(j,f);
+        })(window, document, 'script', 'dataLayer', trackingId);
+    })();
+    </script>
+    <!-- End Google Tag Manager -->
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>404 NOT FOUND | CLUB QUATTRO（クラブクアトロ）公式サイト</title>
+<meta name="description" content="クラブクアトロのご来場者様と主催者様に向けたお問い合わせに関しての情報です。FAQも用意しておりますのでお問い合わせ前にご確認ください。">
+<meta name="keywords" content="">
+
+<meta property="og:type" content="article">
+<meta property="og:title" content="404 NOT FOUND | CLUB QUATTRO（クラブクアトロ）公式サイト">
+<meta property="og:description" content="クラブクアトロのご来場者様と主催者様に向けたお問い合わせに関しての情報です。FAQも用意しておりますのでお問い合わせ前にご確認ください。">
+<meta property="og:url" content="https://www.club-quattro.com/notfound/">
+<meta property="og:image" content="https://www.club-quattro.com/assets/images/common/ogp.png">
+<meta property="og:site_name" content="CLUB QUATTRO（クラブクアトロ）">
+<meta property="fb:admins" content="">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="CLUB QUATTRO（クラブクアトロ）">
+
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+<link rel="alternate" href="https://www.club-quattro.com/notfound/" hreflang="ja">
+<link rel="alternate" href="https://en.club-quattro.com/notfound/" hreflang="en">
+<link rel="alternate" href="https://cn.club-quattro.com/notfound/" hreflang="zh">
+<link rel="alternate" href="https://tw.club-quattro.com/notfound/" hreflang="zh-tw">
+<link rel="alternate" href="https://ko.club-quattro.com/notfound/" hreflang="ko">
+
+    <!-- ************************************************* -->
+    <!-- ************************************************* -->
+    <meta name="robots" content="noindex,nofollow" />
+    <!-- ************************************************* -->
+    <!-- ************************************************* -->
+
+    <meta http-equiv="refresh" content="15;url=/" />
+
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;500;600&family=Noto+Sans+JP:wght@100..900&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="/assets/css/reset.css">
+<link rel="stylesheet" href="/assets/css/common.css?2609111429">
+        <link rel="stylesheet" href="/assets/css/notfound.css?2412171125">
+    
+    <!-- js -->
+<script src="/assets/lib/jquery.min.js"></script>
+
+    </head>
+
+<body class="page-notfound">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MM99DM2"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+        <div class="loading-screen"><div class="in"><img src="/assets/images/common/logo-q.png" alt="" class="logo"></div></div>
+
+    <div class="cmn-contents-wrapper">
+                <div class="header-wrap">
+            <header class="cmn-header js-cmn-header">
+    <div class="cmn-header-in">
+                    <div class="hd-logo"><a href="/"><img src="/assets/images/common/logo-main.svg" alt="clubQUATTRO" class="w100"><span class="store f-en"></span></a></div>
+                        <div class="pc-menu-parent">
+            <div class="parent-list">
+                <a href="/shibuya/" class="js-hdnav-area hv-roll dot" data-area="shibuya"><span class="roll-txt"><span class="source">SHIBUYA</span></span></a>
+                <a href="/nagoya/" class="js-hdnav-area hv-roll dot" data-area="nagoya"><span class="roll-txt"><span class="source">NAGOYA</span></span></a>
+                <a href="/umeda/" class="js-hdnav-area hv-roll dot" data-area="umeda"><span class="roll-txt"><span class="source">UMEDA</span></span></a>
+                <a href="/hiroshima/" class="js-hdnav-area hv-roll dot" data-area="hiroshima"><span class="roll-txt"><span class="source">HIROSHIMA</span></span></a>
+                <a href="https://quattrolabo.com/" target="_blank" class="js-hdnav-area hv-roll dot" data-area="quattrolabo"><span class="roll-txt"><span class="source">QUATTRO LABO</span></span></a>
+            </div>
+        </div>
+        <div class="pc-menu-sub">
+                        <div class="search-block">
+                <div class="btn-search-open"></div>
+                <form action="/search_result/" method="get">
+                    <input type="text" placeholder="アーティスト名で検索する" name="keyword" value="" class="input__txt" autocomplete="off">
+                    <input type="submit" class="btn-submit">
+                </form>
+            </div>
+                        <!-- crosslanguage:ignore -->
+            <div class="language">
+                <div class="lang-wrap">
+                    <button class="lang"><span class="f-en">LANGUAGE</span></button>
+                    <div id="clts-lang-selecter" name="ls-href" data-method="h20" class="lang-box">
+                        <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://www.club-quattro.com/"><span class="roll-txt"><span class="source">JAPANESE<span class="ja">（日本語）</span></span></span></a>
+                        <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://en.club-quattro.com/"><span class="roll-txt"><span class="source">Global<span class="ja">（English）</span></span></span></a>
+                        <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://tw.club-quattro.com/"><span class="roll-txt"><span class="source">Traditional Chinese<span class="ja">（繁体中文）</span></span></span></a>
+                        <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://cn.club-quattro.com/"><span class="roll-txt"><span class="source">Simplified Chinese<span class="ja">（簡体中文）</span></span></span></a>
+                        <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://ko.club-quattro.com/"><span class="roll-txt"><span class="source">Korean<span class="ja">（韓国語）</span></span></span></a>
+                    </div>
+                </div>
+            </div>
+            <!-- /crosslanguage:ignore -->
+        </div>
+                        <button class="hd-hamburger js-hamburger hv-op">
+            <span class="hv-elm"></span>
+            <span class="hv-elm"></span>
+            <span class="hv-elm"></span>
+        </button>
+        <div class="hd-hamburger-menu js-hamburger-menu">
+            <div class="bg js-hamburger-close"></div>
+            <div class="menu-cont">
+                <div class="menu-cont-in">
+                    <button class="btn-menu-close js-hamburger-close hv-op hv-elm"><span></span></button>
+                    <div class="menu-head">
+                        <a href="/" class="logo"><img src="/assets/images/common/logo-main.svg" alt="clubQUATTRO" class="w100"></a>
+                                                <!-- crosslanguage:ignore -->
+                        <div class="language">
+                            <div class="lang-wrap">
+                                <button class="lang js-hamburger-language hv-line"><span class="f-en hv-elm">LANGUAGE</span></button>
+                                <div id="clts-lang-selecter" name="ls-href" data-method="h20" class="lang-box">
+                                    <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://www.club-quattro.com/"><span class="roll-txt"><span class="source">JAPANESE<span class="ja">（日本語）</span></span></span></a>
+                                    <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://en.club-quattro.com/"><span class="roll-txt"><span class="source">Global<span class="ja">（English）</span></span></span></a>
+                                    <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://tw.club-quattro.com/"><span class="roll-txt"><span class="source">Traditional Chinese<span class="ja">（繁体中文）</span></span></span></a>
+                                    <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://cn.club-quattro.com/"><span class="roll-txt"><span class="source">Simplified Chinese<span class="ja">（簡体中文）</span></span></span></a>
+                                    <a class="hv-roll dot cl-notranslate cl-norewrite" href="https://ko.club-quattro.com/"><span class="roll-txt"><span class="source">Korean<span class="ja">（韓国語）</span></span></span></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /crosslanguage:ignore -->
+                    </div>
+                                        <div class="search-block">
+                        <form action="/search_result/" method="POST">
+                            <input type="text" placeholder="アーティスト名で検索する" name="keyword" value="" class="input__txt">
+                            <input type="submit" class="btn-submit">
+                        </form>
+                    </div>
+                                        <div class="area-block">
+                                                <div class="area-box">
+                            <div class="area"><a class="hv-op hv-elm" href="/shibuya/">SHIBUYA</a></div>
+                            <div class="area-body">
+                                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="/shibuya/">TOP</a></li>
+    <li><a class="hv-line hv-elm" href="/shibuya/schedule/">SCHEDULE</a></li>
+    <li><a class="hv-line hv-elm" href="/tickets/?place=shibuya">QUATTRO WEB先行</a></li>
+    <li><a class="hv-line hv-elm" href="/shibuya/#access">ACCESS</a></li>
+    <li><a class="hv-line hv-elm" href="/hallinfo/?place=shibuya">HALL INFO</a></li>
+</ul>
+<ul class="sns-list">
+                </ul>
+                            </div>
+                        </div>
+                                                <div class="area-box">
+                            <div class="area"><a class="hv-op hv-elm" href="/nagoya/">NAGOYA</a></div>
+                            <div class="area-body">
+                                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="/nagoya/">TOP</a></li>
+    <li><a class="hv-line hv-elm" href="/nagoya/schedule/">SCHEDULE</a></li>
+    <li><a class="hv-line hv-elm" href="/tickets/?place=nagoya">QUATTRO WEB先行</a></li>
+    <li><a class="hv-line hv-elm" href="/nagoya/#access">ACCESS</a></li>
+    <li><a class="hv-line hv-elm" href="/hallinfo/?place=nagoya">HALL INFO</a></li>
+</ul>
+<ul class="sns-list">
+                </ul>
+                            </div>
+                        </div>
+                                                <div class="area-box">
+                            <div class="area"><a class="hv-op hv-elm" href="/umeda/">UMEDA</a></div>
+                            <div class="area-body">
+                                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="/umeda/">TOP</a></li>
+    <li><a class="hv-line hv-elm" href="/umeda/schedule/">SCHEDULE</a></li>
+    <li><a class="hv-line hv-elm" href="/tickets/?place=umeda">QUATTRO WEB先行</a></li>
+    <li><a class="hv-line hv-elm" href="/umeda/#access">ACCESS</a></li>
+    <li><a class="hv-line hv-elm" href="/hallinfo/?place=umeda">HALL INFO</a></li>
+</ul>
+<ul class="sns-list">
+                </ul>
+                            </div>
+                        </div>
+                                                <div class="area-box">
+                            <div class="area"><a class="hv-op hv-elm" href="/hiroshima/">HIROSHIMA</a></div>
+                            <div class="area-body">
+                                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="/hiroshima/">TOP</a></li>
+    <li><a class="hv-line hv-elm" href="/hiroshima/schedule/">SCHEDULE</a></li>
+    <li><a class="hv-line hv-elm" href="/tickets/?place=hiroshima">QUATTRO WEB先行</a></li>
+    <li><a class="hv-line hv-elm" href="/hiroshima/#access">ACCESS</a></li>
+    <li><a class="hv-line hv-elm" href="/hallinfo/?place=hiroshima">HALL INFO</a></li>
+</ul>
+<ul class="sns-list">
+                </ul>
+                            </div>
+                        </div>
+                    </div>
+                                        <div class="btn-youtube"><a class=" hv-color01 hv-elm" href="https://www.youtube.com/channel/UCkc8f_2A2XxAkIbvg5q7pOg" target="_blank">Official Youtube</a></div>
+                    <ul class="nav menu-links">
+                        <li><a class="nav-in hv-roll blank" href="https://quattrolabo.com/" target="_blank"><span class="roll-txt"><span class="source">QUATTRO LABO</span></span></a></li>
+                        <li><a class="nav-in hv-roll" href="/tickets/"><span class="roll-txt"><span class="source">QUATTRO WEB <span class="ja">先行</span></span></span></a></li>
+                        <li><a class="nav-in hv-roll" href="/hallinfo/"><span class="roll-txt"><span class="source">HALL INFO</span></span></a></li>
+                        <li><a class="nav-in hv-roll" href="/about_us/"><span class="roll-txt"><span class="source">ABOUT US</span></span></a></li>
+                        <li><a class="nav-in hv-roll blank" href="/letters/" target="_blank"><span class="roll-txt"><span class="source">QUATTRO LETTERS</span></span></a></li>
+                        <li><a class="nav-in hv-roll" href="/contact/"><span class="roll-txt"><span class="source">CONTACT</span></span></a></li>
+                        <li><a class="nav-in hv-roll" href="/recruit/"><span class="roll-txt"><span class="source">RECRUIT</span></span></a></li>
+                        <li><a class="nav-in hv-roll blank" href="https://www.parco.co.jp/privacy/" target="_blank"><span class="roll-txt"><span class="source">PRIVACY POLICY</span></span></a></li>
+                    </ul>
+                    <button class="btn-close-bottom js-hamburger-close hv-color01 hv-elm">CLOSE</button>
+                </div>
+            </div>
+        </div>
+            </div>
+        <div class="hover-area-menu">
+        <div class="menu-wrap">
+            <div class="area" data-area="shibuya">
+                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="/shibuya/">TOP</a></li>
+    <li><a class="hv-line hv-elm" href="/shibuya/schedule/">SCHEDULE</a></li>
+    <li><a class="hv-line hv-elm" href="/tickets/?place=shibuya">QUATTRO WEB先行</a></li>
+    <li><a class="hv-line hv-elm" href="/shibuya/#access">ACCESS</a></li>
+    <li><a class="hv-line hv-elm" href="/hallinfo/?place=shibuya">HALL INFO</a></li>
+</ul>
+<ul class="sns-list">
+                </ul>
+            </div>
+            <div class="area" data-area="nagoya">
+                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="/nagoya/">TOP</a></li>
+    <li><a class="hv-line hv-elm" href="/nagoya/schedule/">SCHEDULE</a></li>
+    <li><a class="hv-line hv-elm" href="/tickets/?place=nagoya">QUATTRO WEB先行</a></li>
+    <li><a class="hv-line hv-elm" href="/nagoya/#access">ACCESS</a></li>
+    <li><a class="hv-line hv-elm" href="/hallinfo/?place=nagoya">HALL INFO</a></li>
+</ul>
+<ul class="sns-list">
+                </ul>
+            </div>
+            <div class="area" data-area="umeda">
+                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="/umeda/">TOP</a></li>
+    <li><a class="hv-line hv-elm" href="/umeda/schedule/">SCHEDULE</a></li>
+    <li><a class="hv-line hv-elm" href="/tickets/?place=umeda">QUATTRO WEB先行</a></li>
+    <li><a class="hv-line hv-elm" href="/umeda/#access">ACCESS</a></li>
+    <li><a class="hv-line hv-elm" href="/hallinfo/?place=umeda">HALL INFO</a></li>
+</ul>
+<ul class="sns-list">
+                </ul>
+            </div>
+            <div class="area" data-area="hiroshima">
+                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="/hiroshima/">TOP</a></li>
+    <li><a class="hv-line hv-elm" href="/hiroshima/schedule/">SCHEDULE</a></li>
+    <li><a class="hv-line hv-elm" href="/tickets/?place=hiroshima">QUATTRO WEB先行</a></li>
+    <li><a class="hv-line hv-elm" href="/hiroshima/#access">ACCESS</a></li>
+    <li><a class="hv-line hv-elm" href="/hallinfo/?place=hiroshima">HALL INFO</a></li>
+</ul>
+<ul class="sns-list">
+                </ul>
+            </div>
+            <div class="area" data-area="quattrolabo">
+                <ul class="nav-list">
+    <li><a class="hv-line hv-elm" href="http://quattrolabo.com/" target="_blank">TOP</a></li>
+</ul>
+<ul class="sns-list">
+    <li><a class="hv-color03 hv-elm" href="https://www.instagram.com/quattrolabo/" target="_blank"><img src="/assets/images/common/sns-insta.svg" alt="インスタグラム" class="w100"></a></li>
+    <li><a class="hv-color03 hv-elm" href="https://x.com/quattrolabo" target="_blank"><img src="/assets/images/common/sns-x.svg" alt="X" class="w100"></a></li>
+    <li><a class="hv-color03 hv-elm" href="https://www.facebook.com/quattrolabo.shibuya/" target="_blank"><img src="/assets/images/common/sns-facebook.svg" alt="facebook" class="w100"></a></li>
+    </ul>
+            </div>
+        </div>
+    </div>
+    </header>
+
+<div class="cmn-fixed-header js-cmn-fixed-header">
+    <div class="cmn-header-in">
+        <div class="hd-logo"><a href="/"><img src="/assets/images/common/logo-main.svg" alt="clubQUATTRO" class="w100"><span class="store f-en"></span></a></div>
+        <button class="hd-hamburger js-hamburger hv-op">
+            <span class="hv-elm"></span>
+            <span class="hv-elm"></span>
+            <span class="hv-elm"></span>
+        </button>
+    </div>
+</div>
+        </div>
+        <main class="cmn-main">
+            <div class="text">
+                <p>ご覧になっていたページからのリンクが無効になっている、<br>該当ページのアドレスの変更されている、<br class="sp-visible">ページの公開期間が終了しています。</p>
+                <p>ページは見つかりませんでしたが、<br class="sp-visible">「いい音楽」「いいライブ」を見つけませんか？<br>皆様のお越しをスタッフ一同心よりお待ちしております。</p>
+                <p>※自動的にジャンプしない場合は下記ボタンをクリックしてください。</p>
+            </div>
+
+            <a href="/" class="cmn-btn-01 f-en hv-color02 hv-elm cmn-btn-back">CLUB QUATTRO TOP</a>
+        </main>
+                <footer class="cmn-footer">
+    <div class="ft-top-area">
+        <a class="hv-color01 hv-elm" href="/shibuya/">SHIBUYA</a>
+        <a class="hv-color01 hv-elm" href="/nagoya/">NAGOYA</a>
+        <a class="hv-color01 hv-elm" href="/umeda/">UMEDA</a>
+        <a class="hv-color01 hv-elm" href="/hiroshima/">HIROSHIMA</a>
+    </div>
+    <div class="ft-body">
+        <div class="f-box">
+            <div class="photo">
+                                    <img src="/assets/images/common/ft-img-common.webp" alt="" loading="lazy" class="w100">
+                            </div>
+            <ul class="nav">
+                <li><a class="nav-in hv-roll blank" href="https://quattrolabo.com/" target="_blank"><span class="roll-txt"><span class="source">QUATTRO LABO</span></span></a></li>
+                <li><a class="nav-in hv-roll" href="/tickets/"><span class="roll-txt"><span class="source">QUATTRO WEB <span class="ja">先行</span></span></span></a></li>
+                <li><a class="nav-in hv-roll" href="/hallinfo/"><span class="roll-txt"><span class="source">HALL INFO</span></span></a></li>
+                <li><a class="nav-in hv-roll" href="/about_us/"><span class="roll-txt"><span class="source">ABOUT US</span></span></a></li>
+                <li><a class="nav-in hv-roll blank" href="/letters/" target="_blank"><span class="roll-txt"><span class="source">QUATTRO LETTERS</span></span></a></li>
+                <li><a class="nav-in hv-roll" href="/contact/"><span class="roll-txt"><span class="source">CONTACT</span></span></a></li>
+                <li><a class="nav-in hv-roll" href="/recruit/"><span class="roll-txt"><span class="source">RECRUIT</span></span></a></li>
+                <li><a class="nav-in hv-roll blank" href="https://www.parco.co.jp/privacy/" target="_blank"><span class="roll-txt"><span class="source">PRIVACY POLICY</span></span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="ft-bottom">
+        <div class="logo"><a class="hv-op hv-elm" href="/"><img src="/assets/images/common/logo-main.svg" alt="clubQUATTRO" class="w100"></a></div>
+        <p class="copyright">COPYRIGHT &copy; PARCO CO,.LTD ALL RIGHTS RESERVED.</p>
+    </div>
+</footer>
+<button class="cmn-pagetop"><img src="/assets/images/common/btn-pagetop.svg" alt="ページ上部へ戻る" class="w100"></button>
+    </div>
+
+    <!-- js -->
+<script src="/assets/lib/gsap.min.js"></script>
+<script src="/assets/lib/ScrollTrigger.min.js"></script>
+<script src="/assets/js/common.js"></script>
+
+    <script type="text/javascript" src="https://sitectl.athp.transer.com/cl.first_lang.js"></script>
+</body>
+
+</html>

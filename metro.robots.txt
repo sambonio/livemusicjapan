@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+Sitemap: https://www.metro.ne.jp/wp-sitemap.xml
+
+Disallow: /uploads/wpo-plugins-tables-list.json

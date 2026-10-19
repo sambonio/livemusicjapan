@@ -11,5 +11,5 @@ Data: `data/events.json` (sample data only).
 
 ## Real listings (preview)
 `importers/import_venues.py` reads the schedule pages of 7 Tokyo venues (SHELTER, Shinjuku LOFT, WWW / WWW X, LIQUIDROOM, U.F.O. CLUB, PIT INN, UNIT) into `data/live-events.json`.
-GitHub Actions runs it daily (`.github/workflows/import.yml`). Preview the real listings at `?live`, e.g. https://sambonio.github.io/livemusicjapan/?live
+GitHub Actions runs it daily (`.github/workflows/import.yml`). Preview the real listings at `?live`, e.g. https://livemusicjapan.app/?live
 Test a parser offline: `python importers/import_venues.py --offline <folder of saved pages>`.

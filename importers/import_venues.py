@@ -18,7 +18,7 @@ from pathlib import Path
 from bs4 import BeautifulSoup
 
 JST = timezone(timedelta(hours=9))
-UA = "LiveMusicJapanBot/0.1 (+https://sambonio.github.io/livemusicjapan/)"
+UA = "LiveMusicJapanBot/0.1 (+https://livemusicjapan.app/)"
 ROOT = Path(__file__).resolve().parent.parent
 
 VENUES = {

@@ -9,7 +9,7 @@ jobs:
     steps:
       - run: |
           mkdir snap && cd snap
-          UA="LiveMusicJapanBot/0.1 (+https://sambonio.github.io/livemusicjapan/)"
+          UA="LiveMusicJapanBot/0.1 (+https://livemusicjapan.app/)"
           for pair in \
             shelter=https://www.loft-prj.co.jp/schedule/shelter \
             loft=https://www.loft-prj.co.jp/schedule/loft \

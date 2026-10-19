@@ -35,6 +35,7 @@ main { padding: 8px 16px 24px; display: grid; gap: 12px; max-width: 720px; margi
 .card a { color: var(--accent); font-size: .88rem; }
 .empty, footer { color: var(--muted); text-align: center; font-size: .85rem; }
 footer { padding: 16px; }
+footer a { color: var(--muted); }
 .notice { margin: 0; padding: 8px 16px; background: #fff3cd; color: #5c4400; font-size: .85rem; }
 #install { position: fixed; right: 16px; bottom: calc(16px + env(safe-area-inset-bottom)); font: inherit;
   padding: 10px 16px; border-radius: 999px; border: 0; background: var(--accent); color: #fff; box-shadow: 0 4px 14px rgba(0,0,0,.25); }

@@ -19,6 +19,8 @@ async function loadLang(code) {
   document.documentElement.lang = code;
   try { localStorage.setItem('lang', code); } catch {}
   document.querySelectorAll('[data-i18n]').forEach(el => el.textContent = t[el.dataset.i18n]);
+  document.getElementById('source').textContent = data.sample ? t.sample :
+    `${t.source} ${new Intl.DateTimeFormat(code, { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(data.updated))}`;
   buildFilters();
   render();
 }
@@ -52,7 +54,8 @@ function matches(e) {
   if (filters.when === 'week' && (e.date < today || e.date > weekEnd)) return false;
   if (filters.city && v.city !== filters.city) return false;
   if (filters.genre && e.genre !== filters.genre) return false;
-  if (filters.friendly && !(v.english && v.cards)) return false;
+  // Card payment is often unknown for real venues, so English support alone counts
+  if (filters.friendly && !(v.english && v.cards !== false)) return false;
   return true;
 }
 
@@ -114,9 +117,9 @@ window.addEventListener('offline', showOffline);
 
 (async () => {
   if ('serviceWorker' in navigator) navigator.serviceWorker.register('sw.js');
-  // ?live previews the real listings collected from venue sites
-  const live = new URLSearchParams(location.search).has('live');
-  data = await fetch(live ? 'data/live-events.json' : 'data/events.json').then(r => r.json());
+  // Real listings collected daily from venue sites; ?sample shows the demo data
+  const sample = new URLSearchParams(location.search).has('sample');
+  data = await fetch(sample ? 'data/events.json' : 'data/live-events.json').then(r => r.json());
   if (data.sample) shiftSampleDates();
   const code = pickLang();
   langSel.value = code;

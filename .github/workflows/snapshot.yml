@@ -1,28 +1,30 @@
 name: Snapshot venue schedule pages
-# Manual helper: saves the raw HTML of each venue schedule page so importers can be written against it.
-on: workflow_dispatch
+# Manual helper: saves the raw HTML (and robots.txt) of venue schedule pages to the
+# `snapshots` branch so importers can be written against them.
+on:
+  workflow_dispatch:
+    inputs:
+      pages:
+        description: "Space-separated name=url pairs"
+        required: true
 permissions:
   contents: write
 jobs:
   snapshot:
     runs-on: ubuntu-latest
     steps:
-      - run: |
+      - env:
+          PAGES: ${{ inputs.pages }}
+        run: |
           mkdir snap && cd snap
           UA="LiveMusicJapanBot/0.1 (+https://livemusicjapan.app/)"
-          for pair in \
-            shelter=https://www.loft-prj.co.jp/schedule/shelter \
-            loft=https://www.loft-prj.co.jp/schedule/loft \
-            www=https://www-shibuya.jp/schedule/ \
-            liquidroom=https://www.liquidroom.net/schedule \
-            ufoclub=https://www.ufoclub.jp/schedule/ \
-            pitinn=https://pit-inn.com/schedule \
-            unit=https://www.unit-tokyo.com/schedule/ ; do
+          for pair in $PAGES; do
             name=${pair%%=*}; url=${pair#*=}
-            curl -sSL -A "$UA" -o "$name.html" -w "$name %{http_code} %{size_download}\n" "$url" || echo "$name failed"
-            curl -sSL -A "$UA" -o "$name.robots.txt" "$(echo $url | cut -d/ -f1-3)/robots.txt" || true
+            curl -sSL -m 30 -A "$UA" -o "$name.html" -w "$name %{http_code} %{size_download} %{url_effective}\n" "$url" >> result.txt || echo "$name failed $url" >> result.txt
+            curl -sSL -m 15 -A "$UA" -o "$name.robots.txt" "$(echo $url | cut -d/ -f1-3)/robots.txt" || true
             sleep 2
           done
+          cat result.txt
       - name: Save to the snapshots branch
         run: |
           cd snap

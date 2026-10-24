@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T07:48+09:00",
+ "updated": "2026-10-25T07:11+09:00",
  "venues": {
   "shelter": {
    "name": {
@@ -255,312 +255,6 @@
   {
    "soldOut": false,
    "venue": "unit",
-   "date": "2026-10-24",
-   "open": "13:45",
-   "start": null,
-   "title": {
-    "ja": "OrJourney 2nd ONE-MAN LIVE “Break the Chain”"
-   },
-   "artist": {
-    "ja": "OrJourney(BAND SET) / 藤井健太郎(Gt.) / なおｋ(Dr.)"
-   },
-   "genre": "various",
-   "price": null,
-   "priceText": null,
-   "url": "https://www.unit-tokyo.com/schedule/14051/",
-   "id": 1
-  },
-  {
-   "soldOut": false,
-   "venue": "unit",
-   "date": "2026-10-24",
-   "open": "17:15",
-   "start": null,
-   "title": {
-    "ja": "OrJourney 2nd ONE-MAN LIVE “Break the Chain”"
-   },
-   "artist": {
-    "ja": "OrJourney (BAND SET) / 藤井健太郎(Gt.) / なおｋ(Dr.)"
-   },
-   "genre": "various",
-   "price": null,
-   "priceText": null,
-   "url": "https://www.unit-tokyo.com/schedule/14056/",
-   "id": 2
-  },
-  {
-   "soldOut": false,
-   "venue": "quattro_umeda",
-   "date": "2026-10-24",
-   "open": "13:00",
-   "start": "13:30",
-   "title": {
-    "ja": "おかめワンマンLIVE - TOUR EDITION - Back to you"
-   },
-   "artist": {
-    "ja": "おかめ"
-   },
-   "genre": "various",
-   "price": null,
-   "priceText": null,
-   "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018873",
-   "id": 3
-  },
-  {
-   "soldOut": false,
-   "venue": "liquidroom",
-   "date": "2026-10-24",
-   "open": "13:00",
-   "start": "14:00",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "SHIBUYA SOUND RIVERSE 〜 SSR2026 〜"
-   },
-   "genre": "various",
-   "price": 6000,
-   "priceText": "ADV ¥6,000(税込・ドリンクチャージ別)",
-   "url": "https://www.liquidroom.net/schedule/ssr2026_20261024",
-   "id": 4
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-24",
-   "open": "13:30",
-   "start": "14:00",
-   "title": {
-    "ja": "Shun Ishiwaka × Marty Holoubek × Chris Kazuki Jones"
-   },
-   "artist": {
-    "ja": "石若 駿 3DAYS 6公演 2026"
-   },
-   "genre": "jazz",
-   "price": 4950,
-   "priceText": "前売り:￥4,950税込 ￥4,500＋税（1DRINK付) 当日: ￥5,500税込 ￥5,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261024hiruishiwaka/",
-   "id": 5
-  },
-  {
-   "soldOut": false,
-   "venue": "janus",
-   "date": "2026-10-24",
-   "open": "14:00",
-   "start": "14:30",
-   "title": {
-    "ja": "堂島孝平 × SOLO TOUR 2026「八宝菜」 ライブ公演"
-   },
-   "artist": {
-    "ja": "堂島孝平"
-   },
-   "genre": "various",
-   "price": 5500,
-   "priceText": "￥5,500 / 未定",
-   "url": "https://janusosaka.com/schedule/",
-   "id": 6
-  },
-  {
-   "soldOut": false,
-   "venue": "quattro_nagoya",
-   "date": "2026-10-24",
-   "open": "15:45",
-   "start": "16:30",
-   "title": {
-    "ja": "あらき LIVE ARK ODYSSEY"
-   },
-   "artist": {
-    "ja": "あらき"
-   },
-   "genre": "various",
-   "price": 6500,
-   "priceText": "前売 スタンディング：¥6,500",
-   "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018634",
-   "id": 7
-  },
-  {
-   "soldOut": false,
-   "venue": "socore",
-   "date": "2026-10-24",
-   "open": "17:00",
-   "start": "17:00",
-   "title": {
-    "ja": "Black Sacrifice Vol. 034 Zero Dimensional Records presents"
-   },
-   "artist": {
-    "ja": "・Cataplexy (Melancholic Black Metal from Osaka) ・Enfer Kommander (Black Metal with French Black elements from Tokyo) ・Gusoh (Showa Kayo-style Black Metal from Tokyo) ・Knave (Darkcore from Oita) ・Mass "
-   },
-   "genre": "various",
-   "price": 5000,
-   "priceText": "Start: 17:00 / Adv: ¥5,000 (D別) / Door: ¥6,000 (D別)",
-   "url": "https://socorefactory.com/schedule/2026/10/24/black-sacrifice-vol-034/",
-   "id": 8
-  },
-  {
-   "soldOut": false,
-   "venue": "wwwx",
-   "date": "2026-10-24",
-   "open": "16:15",
-   "start": "17:00",
-   "title": {
-    "ja": "「MIKU BIRTHDAY LIVE 2026」"
-   },
-   "artist": {
-    "ja": "yosugala"
-   },
-   "genre": "various",
-   "price": null,
-   "priceText": null,
-   "url": "https://www-shibuya.jp/schedule/020104.php",
-   "id": 9
-  },
-  {
-   "soldOut": false,
-   "venue": "janus",
-   "date": "2026-10-24",
-   "open": "16:45",
-   "start": "17:15",
-   "title": {
-    "ja": "堂島孝平 × SOLO TOUR 2026「八宝菜」 打ち上げ公演"
-   },
-   "artist": {
-    "ja": "堂島孝平"
-   },
-   "genre": "various",
-   "price": 5500,
-   "priceText": "￥5,500 / 未定",
-   "url": "https://janusosaka.com/schedule/",
-   "id": 10
-  },
-  {
-   "soldOut": false,
-   "venue": "bigcat",
-   "date": "2026-10-24",
-   "open": "17:00",
-   "start": "18:00",
-   "title": {
-    "ja": "monobright TAIBAN Series 2026 〜SECOND PRIMAL〜"
-   },
-   "artist": {
-    "ja": "モノブライト / Have a Nice Day!"
-   },
-   "genre": "various",
-   "price": 5500,
-   "priceText": "ADV ￥5,500 / DOOR 未定",
-   "url": "https://bigcat-live.com/schedule/",
-   "id": 11
-  },
-  {
-   "soldOut": false,
-   "venue": "nano",
-   "date": "2026-10-24",
-   "open": "17:30",
-   "start": "18:00",
-   "title": {
-    "ja": "ZOOZ 6th Full Album「Sense」Release Party"
-   },
-   "artist": {
-    "ja": "ZOOZ / The Fax / BEETHOVEN FRIEZE / シゼンカイノオキテ"
-   },
-   "genre": "rock",
-   "price": 2500,
-   "priceText": "[open] 17:30 / [start] 18:00 [adv] \\2500 / [door] \\3000",
-   "url": "http://livehouse-nano.com/schedule.php",
-   "id": 12
-  },
-  {
-   "soldOut": false,
-   "venue": "quattro_shibuya",
-   "date": "2026-10-24",
-   "open": "17:00",
-   "start": "18:00",
-   "title": {
-    "ja": "Conton Candy pre. “CHAOS!!!” Vol.4"
-   },
-   "artist": {
-    "ja": "Conton Candy 対バン：KANA-BOON オープニングアクト：乙女座症候群"
-   },
-   "genre": "various",
-   "price": 4500,
-   "priceText": "前売 ￥4,500",
-   "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018558",
-   "id": 13
-  },
-  {
-   "soldOut": false,
-   "venue": "www",
-   "date": "2026-10-24",
-   "open": "17:15",
-   "start": "18:00",
-   "title": {
-    "ja": "スペースシャワー列伝 第169巻 ～奏景の宴～"
-   },
-   "artist": {
-    "ja": "スーパー登山部 / Trooper Salute / Hammer Head Shark"
-   },
-   "genre": "various",
-   "price": null,
-   "priceText": null,
-   "url": "https://www-shibuya.jp/schedule/019907.php",
-   "id": 14
-  },
-  {
-   "soldOut": false,
-   "venue": "ufoclub",
-   "date": "2026-10-24",
-   "open": "18:00",
-   "start": "18:30",
-   "title": {
-    "ja": "Shakin’ All Over"
-   },
-   "artist": {
-    "ja": "はたはた, ヒノヨーコバンド, THE LOVES(京都), メイドイン天国, ママレードタイム"
-   },
-   "genre": "rock",
-   "price": 3000,
-   "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
-   "url": "https://www.ufoclub.jp/schedule/",
-   "id": 15
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-24",
-   "open": "20:00",
-   "start": "20:30",
-   "title": {
-    "ja": "Answer to Remember Big Band チケット売り切れ"
-   },
-   "artist": {
-    "ja": "石若 駿 3DAYS 6公演 2026"
-   },
-   "genre": "jazz",
-   "price": null,
-   "priceText": null,
-   "url": "https://pit-inn.com/artist_live_info/261024yoruishiwaka/",
-   "id": 16
-  },
-  {
-   "soldOut": false,
-   "venue": "metro",
-   "date": "2026-10-24",
-   "open": "22:00",
-   "start": "22:00",
-   "title": {
-    "ja": "Semaphore -Petre Inspirescu Japan Tour in Kyoto-"
-   },
-   "artist": {
-    "ja": "Semaphore -Petre Inspirescu Japan Tour in Kyoto-"
-   },
-   "genre": "various",
-   "price": 3500,
-   "priceText": "OPEN：22:00 ¥3,500(+1D.order) R25¥500off Student¥1,000off",
-   "url": "https://www.metro.ne.jp/schedule/261024/",
-   "id": 17
-  },
-  {
-   "soldOut": false,
-   "venue": "unit",
    "date": "2026-10-25",
    "open": "16:15",
    "start": null,
@@ -574,7 +268,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14623/",
-   "id": 18
+   "id": 1
   },
   {
    "soldOut": false,
@@ -592,25 +286,7 @@
    "price": 3500,
    "priceText": "OPEN：15:00 ADV: ¥3,500 (SAKE HIGH GLASS Set) DOOR: ¥4,000 (SAKE HIGH GLASS Set)",
    "url": "https://www.metro.ne.jp/schedule/261025a/",
-   "id": 19
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-25",
-   "open": "14:30",
-   "start": "15:00",
-   "title": {
-    "ja": "Songbook Project"
-   },
-   "artist": {
-    "ja": "石若 駿 3DAYS 6公演 2026"
-   },
-   "genre": "jazz",
-   "price": 5500,
-   "priceText": "前売り:￥5,500税込 ￥5,000＋税（1DRINK付) 当日: ￥6,050税込 ￥5,500＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261025hiruishiwaka/",
-   "id": 20
+   "id": 2
   },
   {
    "soldOut": false,
@@ -628,7 +304,7 @@
    "price": 5700,
    "priceText": "前売 ￥5,700",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018327",
-   "id": 21
+   "id": 3
   },
   {
    "soldOut": false,
@@ -646,7 +322,7 @@
    "price": 2000,
    "priceText": "Start: 17:00 / Adv: ¥2,000 (D別) / Door: ¥2,000 (D別)",
    "url": "https://socorefactory.com/schedule/2026/10/25/unite-of-the-boom-2/",
-   "id": 22
+   "id": 4
   },
   {
    "soldOut": false,
@@ -664,7 +340,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019944.php",
-   "id": 23
+   "id": 5
   },
   {
    "soldOut": false,
@@ -682,7 +358,7 @@
    "price": 7800,
    "priceText": "ADV ￥7,800 / DOOR 未定",
    "url": "https://bigcat-live.com/schedule/",
-   "id": 24
+   "id": 6
   },
   {
    "soldOut": false,
@@ -700,7 +376,7 @@
    "price": 5000,
    "priceText": "￥5,000 / 未定",
    "url": "https://janusosaka.com/schedule/",
-   "id": 25
+   "id": 7
   },
   {
    "soldOut": false,
@@ -718,7 +394,7 @@
    "price": 4500,
    "priceText": "ADV ¥4,500(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/hitohira_20261025",
-   "id": 26
+   "id": 8
   },
   {
    "soldOut": false,
@@ -736,7 +412,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500 / U-20 ￥3,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018569",
-   "id": 27
+   "id": 9
   },
   {
    "soldOut": false,
@@ -754,7 +430,7 @@
    "price": 3000,
    "priceText": "[open] 18:00 / [start] 18:30 [adv] \\3000 U22￥2000 / [door] \\",
    "url": "http://livehouse-nano.com/schedule.php",
-   "id": 28
+   "id": 10
   },
   {
    "soldOut": false,
@@ -772,7 +448,7 @@
    "price": 4500,
    "priceText": "前売 ￥4,500",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018767",
-   "id": 29
+   "id": 11
   },
   {
    "soldOut": false,
@@ -790,25 +466,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/",
-   "id": 30
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-25",
-   "open": "19:30",
-   "start": "20:00",
-   "title": {
-    "ja": "The Boys Trio \"Returns\"19th Anniversary Live at Pit Inn"
-   },
-   "artist": {
-    "ja": "石若 駿 3DAYS 6公演 2026"
-   },
-   "genre": "jazz",
-   "price": 5500,
-   "priceText": "前売り:￥5,500税込 ￥5,000＋税（1DRINK付) 当日: ￥6,050税込 ￥5,500＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261025yoruishiwaka/",
-   "id": 31
+   "id": 12
   },
   {
    "soldOut": false,
@@ -826,25 +484,7 @@
    "price": 3500,
    "priceText": "OPEN：21:00 ADV: ¥3,500 (SAKE HIGH GLASS Set) DOOR: ¥4,000 (SAKE HIGH GLASS Set)",
    "url": "https://www.metro.ne.jp/schedule/261025b/",
-   "id": 32
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-26",
-   "open": "13:30",
-   "start": "14:00",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "月刊 林 栄一10月号"
-   },
-   "genre": "jazz",
-   "price": 2000,
-   "priceText": "￥2,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/%e6%9c%88%e5%88%8a-%e6%9e%97-%e6%a0%84%e4%b8%8010%e6%9c%88%e5%8f%b7-2/",
-   "id": 33
+   "id": 13
   },
   {
    "soldOut": false,
@@ -862,7 +502,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020057.php",
-   "id": 34
+   "id": 14
   },
   {
    "soldOut": false,
@@ -880,7 +520,7 @@
    "price": 4000,
    "priceText": "ADV 特典付き前売チケット：¥4,000税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/dennouhimeca_20261026",
-   "id": 35
+   "id": 15
   },
   {
    "soldOut": false,
@@ -898,7 +538,7 @@
    "price": 3000,
    "priceText": "前売 ￥3,000 / 当日 ￥4,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018868",
-   "id": 36
+   "id": 16
   },
   {
    "soldOut": false,
@@ -916,7 +556,7 @@
    "price": 4000,
    "priceText": "前売 ￥4,000 / 当日 ￥4,500",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018844",
-   "id": 37
+   "id": 17
   },
   {
    "soldOut": false,
@@ -934,7 +574,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/",
-   "id": 38
+   "id": 18
   },
   {
    "soldOut": false,
@@ -952,25 +592,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019718.php",
-   "id": 39
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-26",
-   "open": "19:00",
-   "start": "19:30",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "山中一毅 カルテット Kazuki Yamanaka Quartet"
-   },
-   "genre": "jazz",
-   "price": 4400,
-   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261026yamanaka/",
-   "id": 40
+   "id": 19
   },
   {
    "soldOut": false,
@@ -988,25 +610,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15309/",
-   "id": 41
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-27",
-   "open": "13:30",
-   "start": "14:00",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "ふぁいぶさくそふぉーんず"
-   },
-   "genre": "jazz",
-   "price": 2000,
-   "priceText": "￥2,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/%e3%81%b5%e3%81%81%e3%81%84%e3%81%b6%e3%81%95%e3%81%8f%e3%81%9d%e3%81%b5%e3%81%89%e3%83%bc%e3%82%93%e3%81%9a-16/",
-   "id": 42
+   "id": 20
   },
   {
    "soldOut": false,
@@ -1024,7 +628,7 @@
    "price": 6500,
    "priceText": "ADV ￥6,500 / DOOR 未定",
    "url": "https://bigcat-live.com/schedule/",
-   "id": 43
+   "id": 21
   },
   {
    "soldOut": false,
@@ -1042,7 +646,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020012.php",
-   "id": 44
+   "id": 22
   },
   {
    "soldOut": false,
@@ -1060,7 +664,7 @@
    "price": 2000,
    "priceText": "[open] 18:30 / [start] 19:00 [adv] \\2000 / [door] \\2500",
    "url": "http://livehouse-nano.com/schedule.php",
-   "id": 45
+   "id": 23
   },
   {
    "soldOut": false,
@@ -1078,7 +682,7 @@
    "price": 10000,
    "priceText": "前売 ￥10,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018436",
-   "id": 46
+   "id": 24
   },
   {
    "soldOut": false,
@@ -1096,7 +700,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/",
-   "id": 47
+   "id": 25
   },
   {
    "soldOut": false,
@@ -1114,25 +718,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020151.php",
-   "id": 48
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-27",
-   "open": "19:00",
-   "start": "19:30",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "細井徳太郎 A.N.D"
-   },
-   "genre": "jazz",
-   "price": 3850,
-   "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261027hosoi/",
-   "id": 49
+   "id": 26
   },
   {
    "soldOut": false,
@@ -1150,25 +736,7 @@
    "price": 2000,
    "priceText": "OPEN：22:00 Entrance : 2000yen+1D",
    "url": "https://www.metro.ne.jp/schedule/261027/",
-   "id": 50
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-28",
-   "open": "13:30",
-   "start": "14:00",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "松本健一SXQ"
-   },
-   "genre": "jazz",
-   "price": 2000,
-   "priceText": "￥2,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/%e6%9d%be%e6%9c%ac%e5%81%a5%e4%b8%80sxq-8/",
-   "id": 51
+   "id": 27
   },
   {
    "soldOut": false,
@@ -1186,7 +754,7 @@
    "price": 5000,
    "priceText": "ADV 前方:￥5,000 一般:￥2,000 / DOOR 未定",
    "url": "https://bigcat-live.com/schedule/",
-   "id": 52
+   "id": 28
   },
   {
    "soldOut": false,
@@ -1204,7 +772,7 @@
    "price": 5000,
    "priceText": "ADV ¥5,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/dexcore_20261028",
-   "id": 53
+   "id": 29
   },
   {
    "soldOut": false,
@@ -1222,7 +790,7 @@
    "price": 5000,
    "priceText": "前売 ￥5,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018809",
-   "id": 54
+   "id": 30
   },
   {
    "soldOut": false,
@@ -1240,7 +808,7 @@
    "price": 3000,
    "priceText": "￥3,000 / 未定",
    "url": "https://janusosaka.com/schedule/",
-   "id": 55
+   "id": 31
   },
   {
    "soldOut": false,
@@ -1258,7 +826,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/",
-   "id": 56
+   "id": 32
   },
   {
    "soldOut": false,
@@ -1276,7 +844,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020047.php",
-   "id": 57
+   "id": 33
   },
   {
    "soldOut": false,
@@ -1294,25 +862,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019831.php",
-   "id": 58
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-28",
-   "open": "19:00",
-   "start": "19:30",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "川嶋哲郎&Fist"
-   },
-   "genre": "jazz",
-   "price": 3300,
-   "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261028kawashima/",
-   "id": 59
+   "id": 34
   },
   {
    "soldOut": false,
@@ -1330,7 +880,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018645",
-   "id": 60
+   "id": 35
   },
   {
    "soldOut": false,
@@ -1348,25 +898,7 @@
    "price": 1600,
    "priceText": "Start: 22:00 / Adv: ¥1,600 (D込) / Door: ¥2,100 (D込)",
    "url": "https://socorefactory.com/schedule/2026/10/28/hoofit-28/",
-   "id": 61
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-29",
-   "open": "13:30",
-   "start": "14:00",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "Kinematics"
-   },
-   "genre": "jazz",
-   "price": 2000,
-   "priceText": "￥2,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/%e4%bc%8a%e8%97%a4%e5%af%9b%e5%93%b2/",
-   "id": 62
+   "id": 36
   },
   {
    "soldOut": false,
@@ -1384,7 +916,7 @@
    "price": 9500,
    "priceText": "ADV 前売チケット ¥9,500(税込・ドリンクチャージ別) PRIORITYチケット ¥16,500(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/see_20261029",
-   "id": 63
+   "id": 37
   },
   {
    "soldOut": false,
@@ -1402,7 +934,7 @@
    "price": 5500,
    "priceText": "ADV ￥5,500 / DOOR 未定",
    "url": "https://bigcat-live.com/schedule/",
-   "id": 64
+   "id": 38
   },
   {
    "soldOut": false,
@@ -1420,7 +952,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019896.php",
-   "id": 65
+   "id": 39
   },
   {
    "soldOut": false,
@@ -1438,7 +970,7 @@
    "price": 6000,
    "priceText": "￥6,000 / 未定",
    "url": "https://janusosaka.com/schedule/",
-   "id": 66
+   "id": 40
   },
   {
    "soldOut": false,
@@ -1456,7 +988,7 @@
    "price": 3000,
    "priceText": "前売 ￥3,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018852",
-   "id": 67
+   "id": 41
   },
   {
    "soldOut": false,
@@ -1474,7 +1006,7 @@
    "price": 3800,
    "priceText": "Start: 19:00 / Adv: ¥3,800 (D別) / Door: ¥4,300 (D別)",
    "url": "https://socorefactory.com/schedule/2026/10/29/gnaw-asia-tour-2026-inside-a-machine-thats-glistening/",
-   "id": 68
+   "id": 42
   },
   {
    "soldOut": false,
@@ -1492,7 +1024,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/",
-   "id": 69
+   "id": 43
   },
   {
    "soldOut": false,
@@ -1510,25 +1042,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020018.php",
-   "id": 70
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-29",
-   "open": "19:00",
-   "start": "19:30",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "岡沢 章 BAND"
-   },
-   "genre": "jazz",
-   "price": 4400,
-   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261029okazawa/",
-   "id": 71
+   "id": 44
   },
   {
    "soldOut": false,
@@ -1546,7 +1060,7 @@
    "price": 1700,
    "priceText": "OPEN：22:00 Entrance/1700yen(inc.1drink ticket)",
    "url": "https://www.metro.ne.jp/schedule/261029/",
-   "id": 72
+   "id": 45
   },
   {
    "soldOut": false,
@@ -1564,25 +1078,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15293/",
-   "id": 73
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-30",
-   "open": "13:30",
-   "start": "14:00",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "Mike’s BIG 4"
-   },
-   "genre": "jazz",
-   "price": 2000,
-   "priceText": "￥2,000＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/mikes-big-4-11/",
-   "id": 74
+   "id": 46
   },
   {
    "soldOut": false,
@@ -1600,7 +1096,7 @@
    "price": 5800,
    "priceText": "ADV ￥5,800 / DOOR 未定",
    "url": "https://bigcat-live.com/schedule/",
-   "id": 75
+   "id": 47
   },
   {
    "soldOut": false,
@@ -1618,7 +1114,7 @@
    "price": 4800,
    "priceText": "前売 ｽﾀﾝﾃﾞｨﾝｸﾞ：￥4,800",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018726",
-   "id": 76
+   "id": 48
   },
   {
    "soldOut": false,
@@ -1636,7 +1132,7 @@
    "price": 5500,
    "priceText": "ADV ¥5,500(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/oddre_20261030",
-   "id": 77
+   "id": 49
   },
   {
    "soldOut": false,
@@ -1654,7 +1150,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018732",
-   "id": 78
+   "id": 50
   },
   {
    "soldOut": false,
@@ -1672,7 +1168,7 @@
    "price": 4500,
    "priceText": "前売 ￥4,500 / U-25/学割 ￥3,000 / 早割 ￥3,000 / 超早割 ￥2,500",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018493",
-   "id": 79
+   "id": 51
   },
   {
    "soldOut": false,
@@ -1690,7 +1186,7 @@
    "price": 4500,
    "priceText": "ADV.¥4500(+1D) DOOR.¥ 0(要1D代)",
    "url": "https://www.ufoclub.jp/schedule/",
-   "id": 80
+   "id": 52
   },
   {
    "soldOut": false,
@@ -1708,7 +1204,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020007.php",
-   "id": 81
+   "id": 53
   },
   {
    "soldOut": false,
@@ -1726,25 +1222,7 @@
    "price": 3500,
    "priceText": "￥3,500 / ￥4,000",
    "url": "https://janusosaka.com/schedule/",
-   "id": 82
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-30",
-   "open": "19:00",
-   "start": "19:30",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "寺久保エレナ カルテット ツアー 2026"
-   },
-   "genre": "jazz",
-   "price": 5500,
-   "priceText": "前売り:￥5,500税込 ￥5,000＋税（1DRINK付) 当日: ￥6,050税込 ￥5,500＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261030terakubo/",
-   "id": 83
+   "id": 54
   },
   {
    "soldOut": false,
@@ -1762,7 +1240,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019973.php",
-   "id": 84
+   "id": 55
   },
   {
    "soldOut": false,
@@ -1780,7 +1258,7 @@
    "price": 2000,
    "priceText": "OPEN：22:00 ￥2,000 (1drink付き)",
    "url": "https://www.metro.ne.jp/schedule/261030/",
-   "id": 85
+   "id": 56
   },
   {
    "soldOut": false,
@@ -1798,7 +1276,7 @@
    "price": 1500,
    "priceText": "Start: 23:00 / Adv: ¥1,500 (D別) / Door: ¥2,000 (D別)",
    "url": "https://socorefactory.com/schedule/2026/10/30/whiteroom-7/",
-   "id": 86
+   "id": 57
   },
   {
    "soldOut": false,
@@ -1816,7 +1294,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020125.php",
-   "id": 87
+   "id": 58
   },
   {
    "soldOut": true,
@@ -1834,7 +1312,7 @@
    "price": 6000,
    "priceText": "ADV ¥6,000(税込・ドリンクチャージ別) SOLD OUT",
    "url": "https://www.liquidroom.net/schedule/optimo_20261031",
-   "id": 88
+   "id": 59
   },
   {
    "soldOut": false,
@@ -1852,25 +1330,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14976/",
-   "id": 89
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-31",
-   "open": "13:30",
-   "start": "14:00",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "Fluid Space"
-   },
-   "genre": "jazz",
-   "price": 2500,
-   "priceText": "￥2,500＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/fluid-space-4/",
-   "id": 90
+   "id": 60
   },
   {
    "soldOut": false,
@@ -1888,7 +1348,7 @@
    "price": 4800,
    "priceText": "￥4,800 / 未定",
    "url": "https://janusosaka.com/schedule/",
-   "id": 91
+   "id": 61
   },
   {
    "soldOut": false,
@@ -1906,7 +1366,7 @@
    "price": 4000,
    "priceText": "前売 ｽﾀﾝﾃﾞｨﾝｸﾞ：¥4,000",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018635",
-   "id": 92
+   "id": 62
   },
   {
    "soldOut": true,
@@ -1924,7 +1384,7 @@
    "price": null,
    "priceText": "ADV SOLD OUT",
    "url": "https://bigcat-live.com/schedule/",
-   "id": 93
+   "id": 63
   },
   {
    "soldOut": false,
@@ -1942,7 +1402,7 @@
    "price": 5900,
    "priceText": "前売 ￥5,900",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018780",
-   "id": 94
+   "id": 64
   },
   {
    "soldOut": false,
@@ -1960,7 +1420,7 @@
    "price": 5000,
    "priceText": "前売 ￥5,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018432",
-   "id": 95
+   "id": 65
   },
   {
    "soldOut": false,
@@ -1978,7 +1438,7 @@
    "price": 3500,
    "priceText": "ADV.¥3500(+1D) DOOR.¥4000(+1D)",
    "url": "https://www.ufoclub.jp/schedule/",
-   "id": 96
+   "id": 66
   },
   {
    "soldOut": false,
@@ -1996,25 +1456,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020162.php",
-   "id": 97
-  },
-  {
-   "soldOut": false,
-   "venue": "pitinn",
-   "date": "2026-10-31",
-   "open": "19:00",
-   "start": "19:30",
-   "title": {
-    "ja": ""
-   },
-   "artist": {
-    "ja": "トリオ座"
-   },
-   "genre": "jazz",
-   "price": 3850,
-   "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
-   "url": "https://pit-inn.com/artist_live_info/261031trio-za/",
-   "id": 98
+   "id": 67
   },
   {
    "soldOut": false,
@@ -2032,7 +1474,7 @@
    "price": 3800,
    "priceText": "OPEN：22:00 一般前売:¥3,800+1D 一般当日:¥4,300+1D 学割前売:¥3,100+1D 学割当日:¥3,600+1D",
    "url": "https://www.metro.ne.jp/schedule/261031/",
-   "id": 99
+   "id": 68
   },
   {
    "soldOut": false,
@@ -2050,7 +1492,7 @@
    "price": 3000,
    "priceText": "Start: 22:00 / Adv: ¥3,000 (D別) / Door: ¥3,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/10/31/joshua-japan-tour-2026-halloween-night-2026/",
-   "id": 100
+   "id": 69
   },
   {
    "soldOut": false,
@@ -2068,7 +1510,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14979/",
-   "id": 101
+   "id": 70
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-01",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "小林陽一&JJM"
+   },
+   "genre": "jazz",
+   "price": 2500,
+   "priceText": "￥2,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e5%b0%8f%e6%9e%97%e9%99%bd%e4%b8%80jjm-13/",
+   "id": 71
   },
   {
    "soldOut": false,
@@ -2086,7 +1546,7 @@
    "price": 5700,
    "priceText": "前売 ¥5,700（税込）",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018266",
-   "id": 102
+   "id": 72
   },
   {
    "soldOut": false,
@@ -2104,7 +1564,7 @@
    "price": 2000,
    "priceText": "Start: 16:00 / Adv: ¥2,000 / Door: ¥2,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/01/%e3%80%8etototonight-raspberry-dreamin-%e3%80%8f/",
-   "id": 103
+   "id": 73
   },
   {
    "soldOut": false,
@@ -2122,7 +1582,7 @@
    "price": 5500,
    "priceText": "ADV ￥5,500 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 104
+   "id": 74
   },
   {
    "soldOut": false,
@@ -2140,7 +1600,7 @@
    "price": 4800,
    "priceText": "￥4,800 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 105
+   "id": 75
   },
   {
    "soldOut": false,
@@ -2158,7 +1618,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019964.php",
-   "id": 106
+   "id": 76
   },
   {
    "soldOut": false,
@@ -2176,7 +1636,7 @@
    "price": 4000,
    "priceText": "前売 ￥4,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018446",
-   "id": 107
+   "id": 77
   },
   {
    "soldOut": false,
@@ -2194,7 +1654,7 @@
    "price": 5500,
    "priceText": "ADV ¥5,500(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/cinemastaff_20261101",
-   "id": 108
+   "id": 78
   },
   {
    "soldOut": false,
@@ -2212,7 +1672,7 @@
    "price": 4400,
    "priceText": "前売 ￥4,400",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018536",
-   "id": 109
+   "id": 79
   },
   {
    "soldOut": false,
@@ -2230,7 +1690,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 110
+   "id": 80
   },
   {
    "soldOut": false,
@@ -2248,7 +1708,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019909.php",
-   "id": 111
+   "id": 81
   },
   {
    "soldOut": false,
@@ -2266,7 +1726,7 @@
    "price": 3300,
    "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261101qs-bar/",
-   "id": 112
+   "id": 82
   },
   {
    "soldOut": false,
@@ -2284,7 +1744,7 @@
    "price": 2500,
    "priceText": "OPEN：21:00 →2:00 close 当日 (Door)：￥2,500 リストバンド提示 (With Wristband)：￥1,500 ドリンク代別途 (Drink charge not included)",
    "url": "https://www.metro.ne.jp/schedule/261101/",
-   "id": 113
+   "id": 83
   },
   {
    "soldOut": false,
@@ -2302,7 +1762,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15027/",
-   "id": 114
+   "id": 84
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-02",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "藤原大輔・石田幹雄 DUO"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e8%97%a4%e5%8e%9f%e5%a4%a7%e8%bc%94%e3%83%bb%e7%9f%b3%e7%94%b0%e5%b9%b9%e9%9b%84-duo/",
+   "id": 85
   },
   {
    "soldOut": false,
@@ -2320,7 +1798,7 @@
    "price": 8500,
    "priceText": "ADV ¥8,500(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/darlin10th_20261102",
-   "id": 115
+   "id": 86
   },
   {
    "soldOut": false,
@@ -2338,7 +1816,7 @@
    "price": 1500,
    "priceText": "Start: 18:00 / Adv: ¥1,500 (D別) / Door: ¥1,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/02/club-mansion-14/",
-   "id": 116
+   "id": 87
   },
   {
    "soldOut": false,
@@ -2356,7 +1834,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020170.php",
-   "id": 117
+   "id": 88
   },
   {
    "soldOut": false,
@@ -2374,7 +1852,7 @@
    "price": 4000,
    "priceText": "￥4,000 / ￥4,500",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 118
+   "id": 89
   },
   {
    "soldOut": false,
@@ -2392,7 +1870,7 @@
    "price": 8000,
    "priceText": "前売り ⼀般 ￥8,000 / 前売り 4⼈割 ￥28,000 / 前売り キッズ ￥4,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018693",
-   "id": 119
+   "id": 90
   },
   {
    "soldOut": false,
@@ -2410,7 +1888,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 120
+   "id": 91
   },
   {
    "soldOut": false,
@@ -2428,7 +1906,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020138.php",
-   "id": 121
+   "id": 92
   },
   {
    "soldOut": true,
@@ -2446,7 +1924,7 @@
    "price": 7000,
    "priceText": "OPEN：18:30 | start：19:30 ADV ¥7000＋1D DOOR ¥8000＋1D ※Early Bird(早割)、及びU-25は＜完売＞",
    "url": "https://www.metro.ne.jp/schedule/261102a/",
-   "id": 122
+   "id": 93
   },
   {
    "soldOut": false,
@@ -2464,7 +1942,7 @@
    "price": 3300,
    "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261102twin-guitars/",
-   "id": 123
+   "id": 94
   },
   {
    "soldOut": false,
@@ -2482,7 +1960,7 @@
    "price": 4500,
    "priceText": "前売 ￥4,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018667",
-   "id": 124
+   "id": 95
   },
   {
    "soldOut": false,
@@ -2500,7 +1978,25 @@
    "price": 2700,
    "priceText": "OPEN：23:00 Door ¥2,700+1D Adv. ¥2,200+1D U23 ¥2,200+1D",
    "url": "https://www.metro.ne.jp/schedule/261102b/",
-   "id": 125
+   "id": 96
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-03",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "福井亜実TRIO"
+   },
+   "genre": "jazz",
+   "price": 2500,
+   "priceText": "￥2,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e7%a6%8f%e4%ba%95%e4%ba%9c%e5%ae%9ftrio-15/",
+   "id": 97
   },
   {
    "soldOut": false,
@@ -2518,7 +2014,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019966.php",
-   "id": 126
+   "id": 98
   },
   {
    "soldOut": false,
@@ -2536,7 +2032,7 @@
    "price": 2500,
    "priceText": "OPEN：15:30 ｜START 16:00 ¥2,500 inc.1drink",
    "url": "https://www.metro.ne.jp/schedule/261103/",
-   "id": 127
+   "id": 99
   },
   {
    "soldOut": false,
@@ -2554,7 +2050,7 @@
    "price": 5800,
    "priceText": "前売 ￥5,800",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018632",
-   "id": 128
+   "id": 100
   },
   {
    "soldOut": false,
@@ -2572,7 +2068,7 @@
    "price": 5000,
    "priceText": "￥5,000 / ￥5,500",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 129
+   "id": 101
   },
   {
    "soldOut": true,
@@ -2590,7 +2086,7 @@
    "price": 5500,
    "priceText": "Start: 18:00 / Adv: ¥5,500 (D別) / Door: ¥",
    "url": "https://socorefactory.com/schedule/2026/11/03/blueover-15%e5%91%a8%e5%b9%b4%e3%83%a9%e3%82%a4%e3%83%96-%e7%b2%b9%e3%80%bb/",
-   "id": 130
+   "id": 102
   },
   {
    "soldOut": false,
@@ -2608,7 +2104,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019847.php",
-   "id": 131
+   "id": 103
   },
   {
    "soldOut": false,
@@ -2626,7 +2122,7 @@
    "price": 5000,
    "priceText": "前売 ¥5000(税込)",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018571",
-   "id": 132
+   "id": 104
   },
   {
    "soldOut": false,
@@ -2644,7 +2140,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 133
+   "id": 105
   },
   {
    "soldOut": false,
@@ -2662,7 +2158,7 @@
    "price": 7500,
    "priceText": "前売 ￥7,500",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018707",
-   "id": 134
+   "id": 106
   },
   {
    "soldOut": false,
@@ -2680,7 +2176,7 @@
    "price": 3850,
    "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261103aratake/",
-   "id": 135
+   "id": 107
   },
   {
    "soldOut": false,
@@ -2698,7 +2194,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15112/",
-   "id": 136
+   "id": 108
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-04",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "関根敏行Band"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e9%96%a2%e6%a0%b9%e6%95%8f%e8%a1%8cband-4/",
+   "id": 109
   },
   {
    "soldOut": false,
@@ -2716,7 +2230,7 @@
    "price": 5800,
    "priceText": "ADV ¥5,800(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/salasa_20261104",
-   "id": 137
+   "id": 110
   },
   {
    "soldOut": false,
@@ -2734,7 +2248,7 @@
    "price": 4000,
    "priceText": "前売 ￥4,000 / 当日 ￥4,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018872",
-   "id": 138
+   "id": 111
   },
   {
    "soldOut": false,
@@ -2752,7 +2266,7 @@
    "price": 6800,
    "priceText": "スタンディング 一般 ￥6,800 / スタンディング 学割 ￥5,800",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018515",
-   "id": 139
+   "id": 112
   },
   {
    "soldOut": false,
@@ -2770,7 +2284,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 140
+   "id": 113
   },
   {
    "soldOut": false,
@@ -2788,7 +2302,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020117.php",
-   "id": 141
+   "id": 114
   },
   {
    "soldOut": false,
@@ -2806,7 +2320,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019609.php",
-   "id": 142
+   "id": 115
   },
   {
    "soldOut": false,
@@ -2824,7 +2338,7 @@
    "price": 4400,
    "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261104sugiyam/",
-   "id": 143
+   "id": 116
   },
   {
    "soldOut": false,
@@ -2842,7 +2356,25 @@
    "price": null,
    "priceText": "ADV  / DOOR ",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 144
+   "id": 117
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-05",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "三原彩子TRIO"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e4%b8%89%e5%8e%9f%e5%bd%a9%e5%ad%90trio/",
+   "id": 118
   },
   {
    "soldOut": false,
@@ -2860,7 +2392,7 @@
    "price": 6400,
    "priceText": "ADV 前方エリア：¥6,400 (税込・ドリンクチャージ別)通常一般：¥3,400 (税込・ドリンクチャージ別) / DOOR 一般：¥4,400 (税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/astrotronicspecialedition_20261105",
-   "id": 145
+   "id": 119
   },
   {
    "soldOut": false,
@@ -2878,7 +2410,7 @@
    "price": null,
    "priceText": "FREE / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 146
+   "id": 120
   },
   {
    "soldOut": false,
@@ -2896,7 +2428,7 @@
    "price": 5800,
    "priceText": "前売 全席指定￥5,800",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018769",
-   "id": 147
+   "id": 121
   },
   {
    "soldOut": false,
@@ -2914,7 +2446,7 @@
    "price": 4800,
    "priceText": "前売 ￥4,800 / 学割 ￥3,800",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018588",
-   "id": 148
+   "id": 122
   },
   {
    "soldOut": false,
@@ -2932,7 +2464,7 @@
    "price": 9500,
    "priceText": "前売 ￥9,500",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018413",
-   "id": 149
+   "id": 123
   },
   {
    "soldOut": false,
@@ -2950,7 +2482,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 150
+   "id": 124
   },
   {
    "soldOut": false,
@@ -2968,7 +2500,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019735.php",
-   "id": 151
+   "id": 125
   },
   {
    "soldOut": false,
@@ -2986,7 +2518,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019985.php",
-   "id": 152
+   "id": 126
   },
   {
    "soldOut": false,
@@ -3004,7 +2536,7 @@
    "price": 3300,
    "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261105takezo/",
-   "id": 153
+   "id": 127
   },
   {
    "soldOut": false,
@@ -3022,7 +2554,7 @@
    "price": 3000,
    "priceText": "Start: 20:00 / Adv: ¥3,000 (D別) / Door: ¥3,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/05/aryy-one-man-show/",
-   "id": 154
+   "id": 128
   },
   {
    "soldOut": false,
@@ -3040,7 +2572,7 @@
    "price": 2000,
    "priceText": "OPEN：21:00 Door: 2000yen inc. 1drink",
    "url": "https://www.metro.ne.jp/schedule/261105/",
-   "id": 155
+   "id": 129
   },
   {
    "soldOut": false,
@@ -3058,7 +2590,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14616/",
-   "id": 156
+   "id": 130
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-06",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "JAM SESSION"
+   },
+   "genre": "jazz",
+   "price": 1000,
+   "priceText": "￥1,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/jam-session-81/",
+   "id": 131
   },
   {
    "soldOut": false,
@@ -3076,7 +2626,7 @@
    "price": 5800,
    "priceText": "前売 ￥5,800",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018521",
-   "id": 157
+   "id": 132
   },
   {
    "soldOut": false,
@@ -3094,7 +2644,7 @@
    "price": 2000,
    "priceText": "[open] 18:00 / [start] 18:30 [adv] \\2000 / [door] \\2500",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 158
+   "id": 133
   },
   {
    "soldOut": false,
@@ -3112,7 +2662,7 @@
    "price": 9000,
    "priceText": "前売 ＶＩＰチケット 9000円 ファンクラブチケット 5000円 一般チケット 6000円",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018877",
-   "id": 159
+   "id": 134
   },
   {
    "soldOut": false,
@@ -3130,7 +2680,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 160
+   "id": 135
   },
   {
    "soldOut": false,
@@ -3148,7 +2698,7 @@
    "price": 3500,
    "priceText": "￥3,500 / ￥4,000",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 161
+   "id": 136
   },
   {
    "soldOut": false,
@@ -3166,7 +2716,7 @@
    "price": 6000,
    "priceText": "ADV ¥6,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/luckykilimanjaro_20261106",
-   "id": 162
+   "id": 137
   },
   {
    "soldOut": false,
@@ -3184,7 +2734,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020080.php",
-   "id": 163
+   "id": 138
   },
   {
    "soldOut": false,
@@ -3202,7 +2752,7 @@
    "price": 4500,
    "priceText": "ADV ￥4,500 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 164
+   "id": 139
   },
   {
    "soldOut": false,
@@ -3220,7 +2770,7 @@
    "price": 4400,
    "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261106dos-orientale/",
-   "id": 165
+   "id": 140
   },
   {
    "soldOut": false,
@@ -3238,7 +2788,7 @@
    "price": 2800,
    "priceText": "Start: 19:30 / Adv: ¥2,800 (D別) / Door: ¥TBA",
    "url": "https://socorefactory.com/schedule/2026/11/06/vela-1st-one-man-tour-%e3%80%8ejournal%e3%80%8f/",
-   "id": 166
+   "id": 141
   },
   {
    "soldOut": false,
@@ -3256,7 +2806,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020086.php",
-   "id": 167
+   "id": 142
   },
   {
    "soldOut": false,
@@ -3274,7 +2824,7 @@
    "price": 2500,
    "priceText": "OPEN：23:00 DOOR ¥2500＋1D",
    "url": "https://www.metro.ne.jp/schedule/261106/",
-   "id": 168
+   "id": 143
   },
   {
    "soldOut": false,
@@ -3292,7 +2842,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.liquidroom.net/schedule/edl2_20261107",
-   "id": 169
+   "id": 144
   },
   {
    "soldOut": false,
@@ -3310,7 +2860,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14674/",
-   "id": 170
+   "id": 145
   },
   {
    "soldOut": false,
@@ -3328,7 +2878,25 @@
    "price": 6000,
    "priceText": "ADV ￥6,000 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 171
+   "id": 146
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-07",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": "NewCD [Layer］発売記念ライブ"
+   },
+   "artist": {
+    "ja": "西山瞳トリオ+3"
+   },
+   "genre": "jazz",
+   "price": 3750,
+   "priceText": "￥3,750(税込、1Drink付)",
+   "url": "https://pit-inn.com/artist_live_info/%e8%a5%bf%e5%b1%b1%e7%9e%b3%e3%83%88%e3%83%aa%e3%82%aa3-newcd-layer%ef%bc%bd%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%83%a9%e3%82%a4%e3%83%96/",
+   "id": 147
   },
   {
    "soldOut": false,
@@ -3346,7 +2914,7 @@
    "price": null,
    "priceText": null,
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 172
+   "id": 148
   },
   {
    "soldOut": false,
@@ -3364,7 +2932,7 @@
    "price": 5500,
    "priceText": "OPEN：16:30 ｜START 17:00 優先入場券：5500円+1D 一般入場券：5000円+1D U-25チケット：4000円+1D ※身分証明書提示",
    "url": "https://www.metro.ne.jp/schedule/261107a/",
-   "id": 173
+   "id": 149
   },
   {
    "soldOut": false,
@@ -3382,7 +2950,7 @@
    "price": 7000,
    "priceText": "前売 ￥7,000 / 当日 ￥7,500 / 学割 ￥5,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018376",
-   "id": 174
+   "id": 150
   },
   {
    "soldOut": false,
@@ -3400,7 +2968,7 @@
    "price": 2000,
    "priceText": "Start: 17:00 / Adv: ¥2,000 (D無) / Door: ¥2,000 (D無)",
    "url": "https://socorefactory.com/schedule/2026/11/07/nickelman-mangoes-ii-release-party/",
-   "id": 175
+   "id": 151
   },
   {
    "soldOut": false,
@@ -3418,7 +2986,7 @@
    "price": 4500,
    "priceText": "前売 スタンディング：￥4,500",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018727",
-   "id": 176
+   "id": 152
   },
   {
    "soldOut": false,
@@ -3436,7 +3004,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020042.php",
-   "id": 177
+   "id": 153
   },
   {
    "soldOut": false,
@@ -3454,7 +3022,7 @@
    "price": 2500,
    "priceText": "[open] 18:30 / [start] 19:00 [adv] \\2500 / [door] \\3000",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 178
+   "id": 154
   },
   {
    "soldOut": false,
@@ -3472,7 +3040,7 @@
    "price": 6000,
    "priceText": "前売 ￥6,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018740",
-   "id": 179
+   "id": 155
   },
   {
    "soldOut": false,
@@ -3490,7 +3058,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D) U23.¥1500(+1D) ※要身分証",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 180
+   "id": 156
   },
   {
    "soldOut": false,
@@ -3508,7 +3076,7 @@
    "price": 4000,
    "priceText": "前売￥4,000 当日￥4,400（共に、1ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261107nagatake/",
-   "id": 181
+   "id": 157
   },
   {
    "soldOut": false,
@@ -3526,7 +3094,7 @@
    "price": 1000,
    "priceText": "OPEN：22:00 Door. ¥1000+1drink FEE",
    "url": "https://www.metro.ne.jp/schedule/261107b/",
-   "id": 182
+   "id": 158
   },
   {
    "soldOut": false,
@@ -3544,7 +3112,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020155.php",
-   "id": 183
+   "id": 159
   },
   {
    "soldOut": false,
@@ -3562,7 +3130,7 @@
    "price": null,
    "priceText": "ADV  / DOOR ",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 184
+   "id": 160
   },
   {
    "soldOut": false,
@@ -3580,7 +3148,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.liquidroom.net/schedule/edl2_20261108",
-   "id": 185
+   "id": 161
   },
   {
    "soldOut": false,
@@ -3598,7 +3166,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14041/",
-   "id": 186
+   "id": 162
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-08",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "千葉史絵ラージアンサンブル"
+   },
+   "genre": "jazz",
+   "price": 3000,
+   "priceText": "￥3,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e5%8d%83%e8%91%89%e5%8f%b2%e7%b5%b5%e3%83%a9%e3%83%bc%e3%82%b8%e3%82%a2%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%96%e3%83%ab/",
+   "id": 163
   },
   {
    "soldOut": false,
@@ -3616,7 +3202,7 @@
    "price": 4800,
    "priceText": "前売 ￥4,800",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018512",
-   "id": 187
+   "id": 164
   },
   {
    "soldOut": false,
@@ -3634,7 +3220,7 @@
    "price": 6000,
    "priceText": "￥6,000 / ￥6,500",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 188
+   "id": 165
   },
   {
    "soldOut": false,
@@ -3652,7 +3238,7 @@
    "price": 2800,
    "priceText": "[open] 17:00 / [start] 17:30 [adv] \\2800 / [door] \\3300",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 189
+   "id": 166
   },
   {
    "soldOut": false,
@@ -3670,7 +3256,7 @@
    "price": 4000,
    "priceText": "前売 ￥4,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018401",
-   "id": 190
+   "id": 167
   },
   {
    "soldOut": false,
@@ -3688,7 +3274,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500(税込) / 当日 ￥6,500(税込)",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018828",
-   "id": 191
+   "id": 168
   },
   {
    "soldOut": false,
@@ -3706,7 +3292,7 @@
    "price": null,
    "priceText": "OPEN：18:00 →Midnight ADV 2500 +1d Door 3000 +1d",
    "url": "https://www.metro.ne.jp/schedule/261108/",
-   "id": 192
+   "id": 169
   },
   {
    "soldOut": false,
@@ -3724,7 +3310,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019829.php",
-   "id": 193
+   "id": 170
   },
   {
    "soldOut": false,
@@ -3742,7 +3328,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019850.php",
-   "id": 194
+   "id": 171
   },
   {
    "soldOut": true,
@@ -3760,7 +3346,7 @@
    "price": 7900,
    "priceText": "Start: 18:30 / Adv: ¥7,900 (D別) / Door: ¥",
    "url": "https://socorefactory.com/schedule/2026/11/08/texas-is-the-reason-japan-tour-2026/",
-   "id": 195
+   "id": 172
   },
   {
    "soldOut": false,
@@ -3778,7 +3364,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 196
+   "id": 173
   },
   {
    "soldOut": false,
@@ -3796,7 +3382,7 @@
    "price": 4000,
    "priceText": "前売￥4,000 当日￥4,400（共に、1ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261108nagatake/",
-   "id": 197
+   "id": 174
   },
   {
    "soldOut": false,
@@ -3814,7 +3400,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15223/",
-   "id": 198
+   "id": 175
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-09",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "山下真理カルテット"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e5%b1%b1%e4%b8%8b%e7%9c%9f%e7%90%86%e3%82%ab%e3%83%ab%e3%83%86%e3%83%83%e3%83%88-37/",
+   "id": 176
   },
   {
    "soldOut": false,
@@ -3832,7 +3436,7 @@
    "price": 5500,
    "priceText": "ADV ¥5,500(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/shes_20261109",
-   "id": 199
+   "id": 177
   },
   {
    "soldOut": false,
@@ -3850,7 +3454,7 @@
    "price": 6500,
    "priceText": "前売 ￥6,500 / 当日 ￥7,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018708",
-   "id": 200
+   "id": 178
   },
   {
    "soldOut": false,
@@ -3868,7 +3472,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 201
+   "id": 179
   },
   {
    "soldOut": false,
@@ -3886,7 +3490,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020043.php",
-   "id": 202
+   "id": 180
   },
   {
    "soldOut": false,
@@ -3904,7 +3508,25 @@
    "price": 4000,
    "priceText": "前売￥4,000 当日￥4,400（共に、1ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261109nagatake/",
-   "id": 203
+   "id": 181
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-10",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "The DREI"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/the-drei-5/",
+   "id": 182
   },
   {
    "soldOut": false,
@@ -3922,7 +3544,7 @@
    "price": 6000,
    "priceText": "前方チケット ￥6,000 / 一般チケット ￥2,000 / 女性チケット ￥1,500",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018786",
-   "id": 204
+   "id": 183
   },
   {
    "soldOut": false,
@@ -3940,7 +3562,7 @@
    "price": 7700,
    "priceText": "ADV ￥7,700 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 205
+   "id": 184
   },
   {
    "soldOut": false,
@@ -3958,7 +3580,7 @@
    "price": 1000,
    "priceText": "[open] 18:30 / [start] 19:00 [adv] \\1000w.1drink / [door] \\",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 206
+   "id": 185
   },
   {
    "soldOut": false,
@@ -3976,7 +3598,7 @@
    "price": 6500,
    "priceText": "前売 ￥6,500 / 当日 ￥7,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018747",
-   "id": 207
+   "id": 186
   },
   {
    "soldOut": false,
@@ -3994,7 +3616,7 @@
    "price": 1600,
    "priceText": "Start: 19:00 / Adv: ¥1,600 (D込) / Door: ¥1,600 (D込)",
    "url": "https://socorefactory.com/schedule/2026/11/10/%e3%83%8a%e3%82%a4%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc%e3%82%ba%e3%81%af%e7%aa%81%e7%84%b6%e3%81%ab-46/",
-   "id": 208
+   "id": 187
   },
   {
    "soldOut": false,
@@ -4012,7 +3634,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 209
+   "id": 188
   },
   {
    "soldOut": false,
@@ -4030,7 +3652,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020166.php",
-   "id": 210
+   "id": 189
   },
   {
    "soldOut": false,
@@ -4048,7 +3670,7 @@
    "price": 3850,
    "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261110mine/",
-   "id": 211
+   "id": 190
   },
   {
    "soldOut": false,
@@ -4066,7 +3688,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500 / 当日 ￥6,000",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018650",
-   "id": 212
+   "id": 191
   },
   {
    "soldOut": false,
@@ -4084,7 +3706,25 @@
    "price": 4500,
    "priceText": "OPEN：19:30 | start 20:00 ADV. ¥4,500＋1D Door. ¥5,000＋1D",
    "url": "https://www.metro.ne.jp/schedule/261110/",
-   "id": 213
+   "id": 192
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-11",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "Fire after fire"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/fire-after-fire%e2%80%a8-4/",
+   "id": 193
   },
   {
    "soldOut": false,
@@ -4102,7 +3742,7 @@
    "price": 3000,
    "priceText": "ADV ￥3,000 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 214
+   "id": 194
   },
   {
    "soldOut": false,
@@ -4120,7 +3760,7 @@
    "price": 2500,
    "priceText": "[open] 18:15 / [start] 18:45 [adv] \\2500 / [door] \\3000",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 215
+   "id": 195
   },
   {
    "soldOut": false,
@@ -4138,7 +3778,7 @@
    "price": 3600,
    "priceText": "￥3,600 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 216
+   "id": 196
   },
   {
    "soldOut": false,
@@ -4156,7 +3796,7 @@
    "price": 6000,
    "priceText": "ADV ¥6,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/jumadiba_20261111",
-   "id": 217
+   "id": 197
   },
   {
    "soldOut": false,
@@ -4174,7 +3814,7 @@
    "price": 5500,
    "priceText": "前売 ｽﾀﾝﾃﾞｨﾝｸﾞ: ￥5,500",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018744",
-   "id": 218
+   "id": 198
   },
   {
    "soldOut": false,
@@ -4192,7 +3832,7 @@
    "price": 5000,
    "priceText": "前売 ￥5,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018291",
-   "id": 219
+   "id": 199
   },
   {
    "soldOut": false,
@@ -4210,7 +3850,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 220
+   "id": 200
   },
   {
    "soldOut": false,
@@ -4228,7 +3868,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019943.php",
-   "id": 221
+   "id": 201
   },
   {
    "soldOut": false,
@@ -4246,7 +3886,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020119.php",
-   "id": 222
+   "id": 202
   },
   {
    "soldOut": false,
@@ -4264,7 +3904,7 @@
    "price": 4950,
    "priceText": "￥4,950税込 ￥4,500＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261111nakayama/",
-   "id": 223
+   "id": 203
   },
   {
    "soldOut": false,
@@ -4282,7 +3922,7 @@
    "price": 2000,
    "priceText": "OPEN：22:00 2,000円 inc.1Drink",
    "url": "https://www.metro.ne.jp/schedule/261111/",
-   "id": 224
+   "id": 204
   },
   {
    "soldOut": false,
@@ -4300,7 +3940,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15053/",
-   "id": 225
+   "id": 205
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-12",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "生島佳明「Guruw」"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e7%94%9f%e5%b3%b6%e4%bd%b3%e6%98%8e%e3%80%8cguruw%e3%80%8d-2/",
+   "id": 206
   },
   {
    "soldOut": false,
@@ -4318,7 +3976,7 @@
    "price": 6500,
    "priceText": "ADV ¥6,500(税込・ドリンクチャージ別",
    "url": "https://www.liquidroom.net/schedule/tk-from-rintoshiteshigure_20261112",
-   "id": 226
+   "id": 207
   },
   {
    "soldOut": false,
@@ -4336,7 +3994,7 @@
    "price": 4500,
    "priceText": "OPEN：18:30 | START 19:00 Adv.¥4500+1D Door.¥5000+1D ※早割は受付終了",
    "url": "https://www.metro.ne.jp/schedule/261112/",
-   "id": 227
+   "id": 208
   },
   {
    "soldOut": false,
@@ -4354,7 +4012,7 @@
    "price": 7500,
    "priceText": "前売 スタンディング：￥7,500",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018802",
-   "id": 228
+   "id": 209
   },
   {
    "soldOut": false,
@@ -4372,7 +4030,7 @@
    "price": 4000,
    "priceText": "前売 ￥4,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018583",
-   "id": 229
+   "id": 210
   },
   {
    "soldOut": false,
@@ -4390,7 +4048,7 @@
    "price": 6500,
    "priceText": "Start: 19:00 / Adv: ¥6,500 (D別) / Door: ¥7,300 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/12/joshua-japan-tour-2026/",
-   "id": 230
+   "id": 211
   },
   {
    "soldOut": false,
@@ -4408,7 +4066,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 231
+   "id": 212
   },
   {
    "soldOut": false,
@@ -4426,7 +4084,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020158.php",
-   "id": 232
+   "id": 213
   },
   {
    "soldOut": false,
@@ -4444,7 +4102,7 @@
    "price": 3850,
    "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261112honda/",
-   "id": 233
+   "id": 214
   },
   {
    "soldOut": false,
@@ -4462,7 +4120,25 @@
    "price": 4500,
    "priceText": "前売 ￥4,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018426",
-   "id": 234
+   "id": 215
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-13",
+   "open": null,
+   "start": null,
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "レンタル"
+   },
+   "genre": "jazz",
+   "price": null,
+   "priceText": null,
+   "url": "https://pit-inn.com/artist_live_info/%e3%83%ac%e3%83%b3%e3%82%bf%e3%83%ab-96/",
+   "id": 216
   },
   {
    "soldOut": false,
@@ -4480,7 +4156,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15233/",
-   "id": 235
+   "id": 217
   },
   {
    "soldOut": false,
@@ -4498,7 +4174,7 @@
    "price": 8500,
    "priceText": "￥8,500 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 236
+   "id": 218
   },
   {
    "soldOut": false,
@@ -4516,7 +4192,7 @@
    "price": 6000,
    "priceText": "ADV ￥6,000 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 237
+   "id": 219
   },
   {
    "soldOut": false,
@@ -4534,7 +4210,7 @@
    "price": null,
    "priceText": "[open] 18:30 / [start] 19:00 [adv] \\ / [door] \\",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 238
+   "id": 220
   },
   {
    "soldOut": false,
@@ -4552,7 +4228,7 @@
    "price": 5500,
    "priceText": "前売 ¥5500(税込)",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018495",
-   "id": 239
+   "id": 221
   },
   {
    "soldOut": false,
@@ -4570,7 +4246,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500 / 学割 ￥4,400",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018723",
-   "id": 240
+   "id": 222
   },
   {
    "soldOut": false,
@@ -4588,7 +4264,7 @@
    "price": 3000,
    "priceText": "Start: 19:00 / Adv: ¥3,000 (D別) / Door: ¥3,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/13/%e3%82%ad%e3%83%84%e3%83%8d%e3%81%ae%e5%ab%81%e5%85%a5%e3%82%8a6th-album%e3%80%8clife%e3%80%8drelease-tour-%ef%bd%9e%e5%a4%a7%e9%98%aa%e7%b7%a8%ef%bd%9e/",
-   "id": 241
+   "id": 223
   },
   {
    "soldOut": false,
@@ -4606,7 +4282,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 242
+   "id": 224
   },
   {
    "soldOut": false,
@@ -4624,7 +4300,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019983.php",
-   "id": 243
+   "id": 225
   },
   {
    "soldOut": false,
@@ -4642,7 +4318,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019936.php",
-   "id": 244
+   "id": 226
   },
   {
    "soldOut": false,
@@ -4660,7 +4336,7 @@
    "price": 8500,
    "priceText": "￥8,500 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 245
+   "id": 227
   },
   {
    "soldOut": false,
@@ -4678,7 +4354,7 @@
    "price": 5800,
    "priceText": "ADV ¥5,800(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/bakdropbomb_20261113",
-   "id": 246
+   "id": 228
   },
   {
    "soldOut": false,
@@ -4696,7 +4372,7 @@
    "price": 7700,
    "priceText": "前売り:￥7,700税込 ￥7,000＋税（1DRINK付) 当日: ￥8,250税込 ¥7,500＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261113kellhuber/",
-   "id": 247
+   "id": 229
   },
   {
    "soldOut": false,
@@ -4714,7 +4390,7 @@
    "price": 2200,
    "priceText": "OPEN：22:00 Entrance/ 2200yen(inc.1drink ticket) 学割 Students・International Students/ 1800yen (inc.1drink ticket) Bring a paper flyer for this event/ 2000yen(inc.1drink ticket)",
    "url": "https://www.metro.ne.jp/schedule/261113/",
-   "id": 248
+   "id": 230
   },
   {
    "soldOut": false,
@@ -4732,7 +4408,25 @@
    "price": 4000,
    "priceText": "OPEN：14:00 BATTLE ENTRY ¥4000+1d AUDIENCE ¥3000+1d",
    "url": "https://www.metro.ne.jp/schedule/261114a/",
-   "id": 249
+   "id": 231
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-14",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": "Mingus Special 2026Autumn"
+   },
+   "artist": {
+    "ja": "M&M 4+3"
+   },
+   "genre": "jazz",
+   "price": 2500,
+   "priceText": "￥2,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/mm-43-mingus-special-2026autumn/",
+   "id": 232
   },
   {
    "soldOut": false,
@@ -4750,7 +4444,7 @@
    "price": 5800,
    "priceText": "前売 ￥5,800 / 当日 ￥6,300 / キッズチケット（小学生対象） ￥3,800",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018716",
-   "id": 250
+   "id": 233
   },
   {
    "soldOut": false,
@@ -4768,7 +4462,7 @@
    "price": 6800,
    "priceText": "￥6,800 / ￥7,300",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 251
+   "id": 234
   },
   {
    "soldOut": false,
@@ -4786,7 +4480,7 @@
    "price": 3500,
    "priceText": "ADV ¥3,500(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/yosugala_20261114",
-   "id": 252
+   "id": 235
   },
   {
    "soldOut": false,
@@ -4804,7 +4498,7 @@
    "price": 5500,
    "priceText": "ADV ￥5,500 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 253
+   "id": 236
   },
   {
    "soldOut": false,
@@ -4822,7 +4516,7 @@
    "price": 3500,
    "priceText": "Start: 17:30 / Adv: ¥3,500 (D別) / Door: ¥4,000 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/14/spirit-of-zion-ska-to-reggae/",
-   "id": 254
+   "id": 237
   },
   {
    "soldOut": false,
@@ -4840,7 +4534,7 @@
    "price": 4000,
    "priceText": "[open] 17:30 / [start] 18:00 [adv] \\4000 / [door] \\4500",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 255
+   "id": 238
   },
   {
    "soldOut": false,
@@ -4858,7 +4552,7 @@
    "price": 4500,
    "priceText": "前売 ｽﾀﾝﾃﾞｨﾝｸﾞ: 一般￥4,500 / 学割￥3,800",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018745",
-   "id": 256
+   "id": 239
   },
   {
    "soldOut": false,
@@ -4876,7 +4570,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018498",
-   "id": 257
+   "id": 240
   },
   {
    "soldOut": false,
@@ -4894,7 +4588,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020071.php",
-   "id": 258
+   "id": 241
   },
   {
    "soldOut": false,
@@ -4912,7 +4606,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019860.php",
-   "id": 259
+   "id": 242
   },
   {
    "soldOut": false,
@@ -4930,7 +4624,7 @@
    "price": null,
    "priceText": "CHARGE.¥0(+1D無料) ※要予約",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 260
+   "id": 243
   },
   {
    "soldOut": false,
@@ -4948,7 +4642,7 @@
    "price": 3500,
    "priceText": "￥3,500（1 ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261114nakamura/",
-   "id": 261
+   "id": 244
   },
   {
    "soldOut": false,
@@ -4966,7 +4660,7 @@
    "price": 2500,
    "priceText": "OPEN：22:00 ADV. : ¥2,500+1D DOOR : ¥3,000+1D",
    "url": "https://www.metro.ne.jp/schedule/261114b/",
-   "id": 262
+   "id": 245
   },
   {
    "soldOut": false,
@@ -4984,7 +4678,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020101.php",
-   "id": 263
+   "id": 246
   },
   {
    "soldOut": false,
@@ -5002,7 +4696,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14847/",
-   "id": 264
+   "id": 247
   },
   {
    "soldOut": false,
@@ -5020,7 +4714,7 @@
    "price": 5500,
    "priceText": "￥5,500 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 265
+   "id": 248
   },
   {
    "soldOut": false,
@@ -5038,7 +4732,25 @@
    "price": 3000,
    "priceText": "[open] 13:00 / [start] 13:30 [adv] \\3000 学割￥2000 / [door] \\3500",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 266
+   "id": 249
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-15",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": "「EXHIBITION」発売記念ライブ"
+   },
+   "artist": {
+    "ja": "塚田陽太TRIO+1"
+   },
+   "genre": "jazz",
+   "price": 2500,
+   "priceText": "￥2,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e5%a1%9a%e7%94%b0%e9%99%bd%e5%a4%aatrio1-%e3%80%8cexhibition%e3%80%8d%e7%99%ba%e5%a3%b2%e8%a8%98%e5%bf%b5%e3%83%a9%e3%82%a4%e3%83%96/",
+   "id": 250
   },
   {
    "soldOut": false,
@@ -5056,7 +4768,7 @@
    "price": 5800,
    "priceText": "前売 ￥5,800 / 当日 ￥6,300 / キッズチケット（小学生対象） ￥3,800",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018717",
-   "id": 267
+   "id": 251
   },
   {
    "soldOut": false,
@@ -5074,7 +4786,7 @@
    "price": 6000,
    "priceText": "前売 ￥6,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018549",
-   "id": 268
+   "id": 252
   },
   {
    "soldOut": false,
@@ -5092,7 +4804,7 @@
    "price": 5000,
    "priceText": "Start: 17:00 / Adv: ¥5,000 (D別) / Door: ¥TBA",
    "url": "https://socorefactory.com/schedule/2026/11/15/natural-weapon-one-man-live/",
-   "id": 269
+   "id": 253
   },
   {
    "soldOut": false,
@@ -5110,7 +4822,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019997.php",
-   "id": 270
+   "id": 254
   },
   {
    "soldOut": false,
@@ -5128,7 +4840,7 @@
    "price": 9000,
    "priceText": "ADV ￥9,000 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 271
+   "id": 255
   },
   {
    "soldOut": false,
@@ -5146,7 +4858,7 @@
    "price": 4000,
    "priceText": "￥4,000 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 272
+   "id": 256
   },
   {
    "soldOut": false,
@@ -5164,7 +4876,7 @@
    "price": 6000,
    "priceText": "ADV ¥6,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/thebeatgarden_20261115",
-   "id": 273
+   "id": 257
   },
   {
    "soldOut": false,
@@ -5182,7 +4894,7 @@
    "price": 5000,
    "priceText": "前売 ￥5,000",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=017761",
-   "id": 274
+   "id": 258
   },
   {
    "soldOut": false,
@@ -5200,7 +4912,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020128.php",
-   "id": 275
+   "id": 259
   },
   {
    "soldOut": false,
@@ -5218,7 +4930,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 276
+   "id": 260
   },
   {
    "soldOut": false,
@@ -5236,7 +4948,7 @@
    "price": 6500,
    "priceText": "￥6,500（1ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261115international/",
-   "id": 277
+   "id": 261
   },
   {
    "soldOut": false,
@@ -5254,7 +4966,25 @@
    "price": 2900,
    "priceText": "OPEN：18:00 →24:00 close 前売2900円(1d付) 当日3300円(1d付)",
    "url": "https://www.metro.ne.jp/schedule/261115/",
-   "id": 278
+   "id": 262
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-16",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "江藤×羽野×類家"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e6%b1%9f%e8%97%a4x%e7%be%bd%e9%87%8ex%e9%a1%9e%e5%ae%b6-4/",
+   "id": 263
   },
   {
    "soldOut": false,
@@ -5272,7 +5002,7 @@
    "price": 12000,
    "priceText": "前売 FC限定(Sチケット)¥12,000 / FC先行(Aチケット)¥5,500 / 一般(Bチケット)¥5,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018733",
-   "id": 279
+   "id": 264
   },
   {
    "soldOut": false,
@@ -5290,7 +5020,7 @@
    "price": null,
    "priceText": "ADV  / DOOR ",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 280
+   "id": 265
   },
   {
    "soldOut": false,
@@ -5308,7 +5038,7 @@
    "price": 12800,
    "priceText": "ADV オールスタンディング ¥12,800 (税込・ドリンクチャージ込み)",
    "url": "https://www.liquidroom.net/schedule/tetsuyakomuro_20261116",
-   "id": 281
+   "id": 266
   },
   {
    "soldOut": false,
@@ -5326,7 +5056,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019959.php",
-   "id": 282
+   "id": 267
   },
   {
    "soldOut": false,
@@ -5344,7 +5074,7 @@
    "price": 4400,
    "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261116otomo/",
-   "id": 283
+   "id": 268
   },
   {
    "soldOut": false,
@@ -5362,7 +5092,7 @@
    "price": 2000,
    "priceText": "Start: 19:30 / Adv: ¥2,000 (D別) / Door: ¥2,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/16/tim-holehouse-londonengland-japan-tour-in-osaka/",
-   "id": 284
+   "id": 269
   },
   {
    "soldOut": false,
@@ -5380,7 +5110,25 @@
    "price": 3200,
    "priceText": "ADV.¥3200(+1D) DOOR.¥3800(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 285
+   "id": 270
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-17",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "月刊 林栄一11月号"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e6%9c%88%e5%88%8a-%e6%9e%97%e6%a0%84%e4%b8%8011%e6%9c%88%e5%8f%b7-3/",
+   "id": 271
   },
   {
    "soldOut": false,
@@ -5398,7 +5146,7 @@
    "price": 5800,
    "priceText": "前売 全席指定￥5,800",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018522",
-   "id": 286
+   "id": 272
   },
   {
    "soldOut": false,
@@ -5416,7 +5164,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020139.php",
-   "id": 287
+   "id": 273
   },
   {
    "soldOut": false,
@@ -5434,7 +5182,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020120.php",
-   "id": 288
+   "id": 274
   },
   {
    "soldOut": false,
@@ -5452,7 +5200,7 @@
    "price": 8500,
    "priceText": "ADV ￥8,500 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 289
+   "id": 275
   },
   {
    "soldOut": false,
@@ -5470,7 +5218,7 @@
    "price": 2000,
    "priceText": "[open] 18:30 / [start] 19:00 [adv] \\2000 / [door] \\2500",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 290
+   "id": 276
   },
   {
    "soldOut": false,
@@ -5488,7 +5236,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 291
+   "id": 277
   },
   {
    "soldOut": false,
@@ -5506,7 +5254,7 @@
    "price": 3850,
    "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261117setagaya/",
-   "id": 292
+   "id": 278
   },
   {
    "soldOut": false,
@@ -5524,7 +5272,7 @@
    "price": 4500,
    "priceText": "OPEN：19:00 | START 20:00 Adv.¥4500+1D Door.¥5000+1D U-25 ADV ¥2,500＋1D U25- DOOR ¥3,000＋1D",
    "url": "https://www.metro.ne.jp/schedule/261117/",
-   "id": 293
+   "id": 279
   },
   {
    "soldOut": false,
@@ -5542,7 +5290,25 @@
    "price": 4000,
    "priceText": "ADV ￥4,000 / DOOR ￥4,000",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 294
+   "id": 280
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-18",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "「葉緑体」"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e3%80%8c%e8%91%89%e7%b7%91%e4%bd%93%e3%80%8d-2/",
+   "id": 281
   },
   {
    "soldOut": false,
@@ -5560,7 +5326,7 @@
    "price": 6500,
    "priceText": "￥6,500 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 295
+   "id": 282
   },
   {
    "soldOut": false,
@@ -5578,7 +5344,7 @@
    "price": 3000,
    "priceText": "ADV 一般前売：¥3,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/iq99_20261118",
-   "id": 296
+   "id": 283
   },
   {
    "soldOut": false,
@@ -5596,7 +5362,7 @@
    "price": 3000,
    "priceText": "Start: 18:30 / Adv: ¥3,000 (D別) / Door: ¥3,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/18/socore-day-factory-06-junizawalite-contrastz-%e3%80%80core-ep-release-party-in-osaka/",
-   "id": 297
+   "id": 284
   },
   {
    "soldOut": false,
@@ -5614,7 +5380,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020169.php",
-   "id": 298
+   "id": 285
   },
   {
    "soldOut": false,
@@ -5632,7 +5398,7 @@
    "price": 3000,
    "priceText": "[open] 18:15 / [start] 18:45 [adv] \\3000 / [door] \\",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 299
+   "id": 286
   },
   {
    "soldOut": false,
@@ -5650,7 +5416,7 @@
    "price": 8000,
    "priceText": "ADV 前方カメラ席：￥8,000 後方カメラ席：￥6,000 前方エリア：￥3,000 一般エリア：￥0 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 300
+   "id": 287
   },
   {
    "soldOut": false,
@@ -5668,7 +5434,7 @@
    "price": 5000,
    "priceText": "前売 スタンディング :￥5,000",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018757",
-   "id": 301
+   "id": 288
   },
   {
    "soldOut": false,
@@ -5686,7 +5452,7 @@
    "price": 10000,
    "priceText": "前売 ￥10,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018654",
-   "id": 302
+   "id": 289
   },
   {
    "soldOut": false,
@@ -5698,13 +5464,13 @@
     "ja": "LOVE LOVE LOVE"
    },
    "artist": {
-    "ja": "三光, 紅睡蓮, The Glitter SmoKing Clovers…& more"
+    "ja": "三光, 紅睡蓮, The Glitter SmoKing Clovers, あべぶなたろう…& more"
    },
    "genre": "rock",
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 303
+   "id": 290
   },
   {
    "soldOut": false,
@@ -5722,7 +5488,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020095.php",
-   "id": 304
+   "id": 291
   },
   {
    "soldOut": false,
@@ -5740,7 +5506,7 @@
    "price": 4000,
    "priceText": "￥4,000（1ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261118miyazaki/",
-   "id": 305
+   "id": 292
   },
   {
    "soldOut": false,
@@ -5758,7 +5524,7 @@
    "price": 1000,
    "priceText": "OPEN：22:00 charge 1000yen + 1drink order(600yen)",
    "url": "https://www.metro.ne.jp/schedule/261118/",
-   "id": 306
+   "id": 293
   },
   {
    "soldOut": false,
@@ -5776,7 +5542,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14960/",
-   "id": 307
+   "id": 294
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-19",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "山中/天野/甲斐"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e5%b1%b1%e4%b8%ad-%e5%a4%a9%e9%87%8e-%e7%94%b2%e6%96%90/",
+   "id": 295
   },
   {
    "soldOut": false,
@@ -5794,7 +5578,7 @@
    "price": 5800,
    "priceText": "ADV ¥5,800(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/okamotos_20261119",
-   "id": 308
+   "id": 296
   },
   {
    "soldOut": false,
@@ -5812,7 +5596,7 @@
    "price": 4500,
    "priceText": "OPEN：18:30 | START 19:00 前売 ¥4,500＋1D U-23前売 ¥3,500＋1D",
    "url": "https://www.metro.ne.jp/schedule/261119/",
-   "id": 309
+   "id": 297
   },
   {
    "soldOut": false,
@@ -5830,7 +5614,7 @@
    "price": 2000,
    "priceText": "[open] 18:30 / [start] 19:00 [adv] \\2000 / [door] \\2500",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 310
+   "id": 298
   },
   {
    "soldOut": false,
@@ -5848,7 +5632,7 @@
    "price": 5800,
    "priceText": "前売 ・一般￥ 5,800(税込) ・U-18チケット￥4,800円(税込)",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018702",
-   "id": 311
+   "id": 299
   },
   {
    "soldOut": false,
@@ -5866,7 +5650,7 @@
    "price": 6500,
    "priceText": "前売 ￥6,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018701",
-   "id": 312
+   "id": 300
   },
   {
    "soldOut": false,
@@ -5884,7 +5668,7 @@
    "price": 10000,
    "priceText": "前売 ￥10,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018642",
-   "id": 313
+   "id": 301
   },
   {
    "soldOut": false,
@@ -5902,7 +5686,7 @@
    "price": 2500,
    "priceText": "Start: 19:00 / Adv: ¥2,500 (D込) / Door: ¥2,500 (D込)",
    "url": "https://socorefactory.com/schedule/2026/11/19/c-a-r-germany-japan-tour-in-osaka/",
-   "id": 314
+   "id": 302
   },
   {
    "soldOut": false,
@@ -5920,7 +5704,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 315
+   "id": 303
   },
   {
    "soldOut": false,
@@ -5938,7 +5722,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019934.php",
-   "id": 316
+   "id": 304
   },
   {
    "soldOut": false,
@@ -5956,7 +5740,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020081.php",
-   "id": 317
+   "id": 305
   },
   {
    "soldOut": false,
@@ -5974,7 +5758,7 @@
    "price": 3300,
    "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261119okudaira/",
-   "id": 318
+   "id": 306
   },
   {
    "soldOut": false,
@@ -5992,7 +5776,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15205/",
-   "id": 319
+   "id": 307
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-20",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "TENT"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/tent-63/",
+   "id": 308
   },
   {
    "soldOut": false,
@@ -6010,7 +5812,7 @@
    "price": 6500,
    "priceText": "ADV 優先入場：￥6,500 一般入場：￥5,000 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 320
+   "id": 309
   },
   {
    "soldOut": false,
@@ -6028,7 +5830,7 @@
    "price": 2000,
    "priceText": "[open] 18:15 / [start] 18:45 [adv] \\2000 / [door] \\2500",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 321
+   "id": 310
   },
   {
    "soldOut": false,
@@ -6046,7 +5848,7 @@
    "price": 4500,
    "priceText": "￥4,500 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 322
+   "id": 311
   },
   {
    "soldOut": false,
@@ -6064,7 +5866,7 @@
    "price": 5500,
    "priceText": "ADV オールスタンディング ¥5,500(税込・ドリンクチャージ別)オールスタンディング(U-18) ¥3,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/dopingpanda_20261120",
-   "id": 323
+   "id": 312
   },
   {
    "soldOut": false,
@@ -6082,7 +5884,7 @@
    "price": 5500,
    "priceText": "前売 指定席 :￥5,500",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018759",
-   "id": 324
+   "id": 313
   },
   {
    "soldOut": false,
@@ -6100,7 +5902,7 @@
    "price": 4500,
    "priceText": "前売 ￥4,500 ／ 学割チケット：￥3,800",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=015603",
-   "id": 325
+   "id": 314
   },
   {
    "soldOut": false,
@@ -6118,7 +5920,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 326
+   "id": 315
   },
   {
    "soldOut": false,
@@ -6136,7 +5938,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020024.php",
-   "id": 327
+   "id": 316
   },
   {
    "soldOut": false,
@@ -6154,7 +5956,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020059.php",
-   "id": 328
+   "id": 317
   },
   {
    "soldOut": false,
@@ -6172,7 +5974,7 @@
    "price": 4400,
    "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261120key/",
-   "id": 329
+   "id": 318
   },
   {
    "soldOut": false,
@@ -6190,7 +5992,7 @@
    "price": 3000,
    "priceText": "OPEN：22:00 Door.¥3000+1D ADV.¥2500+1D",
    "url": "https://www.metro.ne.jp/schedule/261120/",
-   "id": 330
+   "id": 319
   },
   {
    "soldOut": false,
@@ -6208,7 +6010,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15135/",
-   "id": 331
+   "id": 320
   },
   {
    "soldOut": false,
@@ -6226,7 +6028,25 @@
    "price": 6500,
    "priceText": "￥6,500 / ￥7,000",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 332
+   "id": 321
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-21",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": "THE TOKYO SESSIONS"
+   },
+   "artist": {
+    "ja": "Benjamin Herman Trio with special guest Shinpei Ruike"
+   },
+   "genre": "jazz",
+   "price": 2500,
+   "priceText": "￥2,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/benjamin-herman-trio-with-special-guest-shinpei-ruike/",
+   "id": 322
   },
   {
    "soldOut": false,
@@ -6244,7 +6064,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020130.php",
-   "id": 333
+   "id": 323
   },
   {
    "soldOut": false,
@@ -6262,7 +6082,7 @@
    "price": 6000,
    "priceText": "ADV ￥6,000 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 334
+   "id": 324
   },
   {
    "soldOut": false,
@@ -6280,7 +6100,7 @@
    "price": 7500,
    "priceText": "OPEN：16:30 ｜START 17:00 前売 ¥7,500+1D 当日 ¥8,500+1D",
    "url": "https://www.metro.ne.jp/schedule/261121a/",
-   "id": 335
+   "id": 325
   },
   {
    "soldOut": false,
@@ -6298,7 +6118,7 @@
    "price": 3000,
    "priceText": "Start: 17:00 / Adv: ¥3,000 (D別) / Door: ¥3,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/21/waddys-factory/",
-   "id": 336
+   "id": 326
   },
   {
    "soldOut": false,
@@ -6316,7 +6136,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 337
+   "id": 327
   },
   {
    "soldOut": false,
@@ -6334,7 +6154,7 @@
    "price": 3000,
    "priceText": "[open] 17:30 / [start] 18:00 [adv] \\3000 / [door] \\",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 338
+   "id": 328
   },
   {
    "soldOut": false,
@@ -6352,7 +6172,7 @@
    "price": 4000,
    "priceText": "前売 ￥4,000 / 当日 ￥5,000",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018330",
-   "id": 339
+   "id": 329
   },
   {
    "soldOut": false,
@@ -6370,7 +6190,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018499",
-   "id": 340
+   "id": 330
   },
   {
    "soldOut": false,
@@ -6388,7 +6208,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018703",
-   "id": 341
+   "id": 331
   },
   {
    "soldOut": false,
@@ -6406,7 +6226,7 @@
    "price": 4500,
    "priceText": "￥4,500 / ￥5,000",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 342
+   "id": 332
   },
   {
    "soldOut": false,
@@ -6424,7 +6244,7 @@
    "price": 4400,
    "priceText": "ADV ¥4,400 (税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/yamaarashi_20261121",
-   "id": 343
+   "id": 333
   },
   {
    "soldOut": false,
@@ -6442,7 +6262,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020156.php",
-   "id": 344
+   "id": 334
   },
   {
    "soldOut": false,
@@ -6460,7 +6280,7 @@
    "price": 4950,
    "priceText": "￥4,950税込 ￥4,500＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261121nakamura/",
-   "id": 345
+   "id": 335
   },
   {
    "soldOut": false,
@@ -6478,7 +6298,7 @@
    "price": 3300,
    "priceText": "OPEN：22:00 (e+)Adv.¥3,300+1D (e+)U-23¥2,800+1D",
    "url": "https://www.metro.ne.jp/schedule/261121b/",
-   "id": 346
+   "id": 336
   },
   {
    "soldOut": false,
@@ -6496,7 +6316,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020114.php",
-   "id": 347
+   "id": 337
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-22",
+   "open": null,
+   "start": null,
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "レンタル"
+   },
+   "genre": "jazz",
+   "price": null,
+   "priceText": null,
+   "url": "https://pit-inn.com/artist_live_info/%e3%83%ac%e3%83%b3%e3%82%bf%e3%83%ab-97/",
+   "id": 338
   },
   {
    "soldOut": false,
@@ -6514,7 +6352,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14571/",
-   "id": 348
+   "id": 339
   },
   {
    "soldOut": false,
@@ -6532,7 +6370,7 @@
    "price": 2900,
    "priceText": "Start: 14:00 / Adv: ¥2,900 (D別) / Door: ¥3,400 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/22/ceremony-5/",
-   "id": 349
+   "id": 340
   },
   {
    "soldOut": false,
@@ -6550,7 +6388,7 @@
    "price": 5000,
    "priceText": "￥5,000 / ￥6,000",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 350
+   "id": 341
   },
   {
    "soldOut": false,
@@ -6568,7 +6406,7 @@
    "price": 5800,
    "priceText": "一般 ￥5,800 / キッズチケット（小学生対象） ￥3,800",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018813",
-   "id": 351
+   "id": 342
   },
   {
    "soldOut": false,
@@ -6586,7 +6424,7 @@
    "price": 3900,
    "priceText": "前売 ￥3,900 / 当日 ￥4,400",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=017944",
-   "id": 352
+   "id": 343
   },
   {
    "soldOut": false,
@@ -6604,7 +6442,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020082.php",
-   "id": 353
+   "id": 344
   },
   {
    "soldOut": false,
@@ -6622,7 +6460,7 @@
    "price": 3500,
    "priceText": "[open] 17:30 / [start] 17:30 [adv] \\3500 U25￥2500 / [door] \\4000",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 354
+   "id": 345
   },
   {
    "soldOut": false,
@@ -6640,7 +6478,7 @@
    "price": 4000,
    "priceText": "前売 ￥4,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018411",
-   "id": 355
+   "id": 346
   },
   {
    "soldOut": false,
@@ -6658,7 +6496,7 @@
    "price": 4000,
    "priceText": "ADV ￥4,000 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 356
+   "id": 347
   },
   {
    "soldOut": false,
@@ -6676,7 +6514,7 @@
    "price": 5000,
    "priceText": "ADV ¥5,000 (税込・ドリンクチャージ別)ライブ盤LP付きチケット ¥15,000 (税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/riddimsaunter_20261122",
-   "id": 357
+   "id": 348
   },
   {
    "soldOut": false,
@@ -6694,7 +6532,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 358
+   "id": 349
   },
   {
    "soldOut": false,
@@ -6712,7 +6550,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019954.php",
-   "id": 359
+   "id": 350
   },
   {
    "soldOut": false,
@@ -6730,7 +6568,25 @@
    "price": 4950,
    "priceText": "￥4,950税込 ￥4,500＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261122mundi/",
-   "id": 360
+   "id": 351
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-23",
+   "open": null,
+   "start": null,
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "レンタル"
+   },
+   "genre": "jazz",
+   "price": null,
+   "priceText": null,
+   "url": "https://pit-inn.com/artist_live_info/%e3%83%ac%e3%83%b3%e3%82%bf%e3%83%ab-98/",
+   "id": 352
   },
   {
    "soldOut": false,
@@ -6748,7 +6604,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14786/",
-   "id": 361
+   "id": 353
   },
   {
    "soldOut": false,
@@ -6766,7 +6622,7 @@
    "price": 2500,
    "priceText": "￥2,500 / ￥3,000",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 362
+   "id": 354
   },
   {
    "soldOut": false,
@@ -6784,7 +6640,7 @@
    "price": 5800,
    "priceText": "前売 スタンディング ￥5,800 / 前売 キッズチケット ￥3,800",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018706",
-   "id": 363
+   "id": 355
   },
   {
    "soldOut": false,
@@ -6802,7 +6658,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019882.php",
-   "id": 364
+   "id": 356
   },
   {
    "soldOut": false,
@@ -6820,7 +6676,7 @@
    "price": 2800,
    "priceText": "Start: 17:30 / Adv: ¥2,800 (D別) / Door: ¥3,300 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/23/%e7%99%be%e5%9b%9e%e4%b8%ad%e7%99%be%e5%9b%9e-%e4%bc%81%e7%94%bb-%e3%80%8c%e8%87%aa%e5%ae%b6%e7%99%ba%e9%9b%bbvol-2%e3%80%8d/",
-   "id": 365
+   "id": 357
   },
   {
    "soldOut": false,
@@ -6838,7 +6694,7 @@
    "price": 9300,
    "priceText": "ADV Tシャツ付きチケット⼀般：￥9,300 チケット⼀般：￥5,500 Tシャツ付きチケット中⾼⽣：￥3,800 チケット中⾼⽣限定先⾏ ￥0 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 366
+   "id": 358
   },
   {
    "soldOut": false,
@@ -6856,7 +6712,7 @@
    "price": 2500,
    "priceText": "￥2,500 / ￥3,000",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 367
+   "id": 359
   },
   {
    "soldOut": false,
@@ -6874,7 +6730,7 @@
    "price": 5000,
    "priceText": "ADV ¥5,000 (税込・ドリンクチャージ別)ライブ盤LP付きチケット ¥15,000 (税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/riddimsaunter_20261123",
-   "id": 368
+   "id": 360
   },
   {
    "soldOut": false,
@@ -6892,7 +6748,7 @@
    "price": 4444,
    "priceText": "前売 一般：￥4,444 餓鬼割(U18)：￥2,525",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018664",
-   "id": 369
+   "id": 361
   },
   {
    "soldOut": false,
@@ -6910,7 +6766,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018612",
-   "id": 370
+   "id": 362
   },
   {
    "soldOut": false,
@@ -6928,7 +6784,7 @@
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 371
+   "id": 363
   },
   {
    "soldOut": false,
@@ -6946,7 +6802,7 @@
    "price": 2500,
    "priceText": "OPEN：19:00 DOOR: ¥2,500 + 1D BEFORE 8PM / U23: ¥2,000 + 1D",
    "url": "https://www.metro.ne.jp/schedule/261123/",
-   "id": 372
+   "id": 364
   },
   {
    "soldOut": false,
@@ -6964,7 +6820,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020029.php",
-   "id": 373
+   "id": 365
   },
   {
    "soldOut": false,
@@ -6982,7 +6838,7 @@
    "price": 5500,
    "priceText": "￥5,500税込 ￥5,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261123sakata/",
-   "id": 374
+   "id": 366
   },
   {
    "soldOut": false,
@@ -7000,7 +6856,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15199/",
-   "id": 375
+   "id": 367
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-24",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": "LP「Dream of Walt」発売記念ライブ"
+   },
+   "artist": {
+    "ja": "Torus"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/torus-7/",
+   "id": 368
   },
   {
    "soldOut": false,
@@ -7018,7 +6892,7 @@
    "price": 11000,
    "priceText": "前売 指定席¥11000(税込)",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018561",
-   "id": 376
+   "id": 369
   },
   {
    "soldOut": true,
@@ -7036,7 +6910,7 @@
    "price": null,
    "priceText": "ADV SOLD OUT",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 377
+   "id": 370
   },
   {
    "soldOut": false,
@@ -7054,7 +6928,7 @@
    "price": 2800,
    "priceText": "￥2,800 / ￥3,300",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 378
+   "id": 371
   },
   {
    "soldOut": false,
@@ -7072,7 +6946,7 @@
    "price": 5000,
    "priceText": "ADV ¥5,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/wienners_20261124",
-   "id": 379
+   "id": 372
   },
   {
    "soldOut": false,
@@ -7090,7 +6964,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 380
+   "id": 373
   },
   {
    "soldOut": false,
@@ -7108,7 +6982,7 @@
    "price": 3300,
    "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261124nakashima/",
-   "id": 381
+   "id": 374
   },
   {
    "soldOut": false,
@@ -7126,7 +7000,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020143.php",
-   "id": 382
+   "id": 375
   },
   {
    "soldOut": false,
@@ -7144,7 +7018,7 @@
    "price": null,
    "priceText": "ADV  / DOOR ",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 383
+   "id": 376
   },
   {
    "soldOut": false,
@@ -7162,7 +7036,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15003/",
-   "id": 384
+   "id": 377
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-25",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "鈴木克人TRIO"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e9%88%b4%e6%9c%a8%e5%85%8b%e4%ba%batrio-5/",
+   "id": 378
   },
   {
    "soldOut": false,
@@ -7180,7 +7072,7 @@
    "price": 5000,
    "priceText": "ADV ¥5,000 (税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/pasocom_music_club_20261125",
-   "id": 385
+   "id": 379
   },
   {
    "soldOut": false,
@@ -7198,7 +7090,7 @@
    "price": 2000,
    "priceText": "[open] 18:30 / [start] 19:00 [adv] \\2000 / [door] \\2500",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 386
+   "id": 380
   },
   {
    "soldOut": false,
@@ -7216,7 +7108,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500(税込)",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018771",
-   "id": 387
+   "id": 381
   },
   {
    "soldOut": false,
@@ -7234,7 +7126,7 @@
    "price": 10000,
    "priceText": "前売 ￥10,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018735",
-   "id": 388
+   "id": 382
   },
   {
    "soldOut": false,
@@ -7252,7 +7144,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 389
+   "id": 383
   },
   {
    "soldOut": false,
@@ -7270,7 +7162,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019746.php",
-   "id": 390
+   "id": 384
   },
   {
    "soldOut": false,
@@ -7288,7 +7180,7 @@
    "price": 3300,
    "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261125imamura/",
-   "id": 391
+   "id": 385
   },
   {
    "soldOut": false,
@@ -7306,7 +7198,7 @@
    "price": 7500,
    "priceText": "前売 Tシャツ付チケット¥7,500 / 一般¥4,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=017895",
-   "id": 392
+   "id": 386
   },
   {
    "soldOut": false,
@@ -7324,7 +7216,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/14940/",
-   "id": 393
+   "id": 387
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-26",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "江澤 茜 & David Bryant"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e6%b1%9f%e6%be%a4-%e8%8c%9c-david-bryant/",
+   "id": 388
   },
   {
    "soldOut": false,
@@ -7342,7 +7252,7 @@
    "price": 7700,
    "priceText": "スタンディング ￥7,700 / フロア後方指定席 ￥9,900",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018510",
-   "id": 394
+   "id": 389
   },
   {
    "soldOut": false,
@@ -7360,7 +7270,7 @@
    "price": 32100,
    "priceText": "ADV VIP M&G PACKAGE：￥32,100 スタンディング：￥10,300 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 395
+   "id": 390
   },
   {
    "soldOut": false,
@@ -7378,7 +7288,7 @@
    "price": 4500,
    "priceText": "ADV ⼀般/インバウンド ¥4,500(税込・ドリンクチャージ別)18歳以下チケット ¥1,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/knosis_20261126",
-   "id": 396
+   "id": 391
   },
   {
    "soldOut": false,
@@ -7396,7 +7306,7 @@
    "price": 6500,
    "priceText": "[open] 18:30 / [start] 19:00 [adv] \\6500 / [door] \\",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 397
+   "id": 392
   },
   {
    "soldOut": false,
@@ -7414,7 +7324,7 @@
    "price": 4400,
    "priceText": "前売 ￥4,400 / U-20割チケット ￥4,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018322",
-   "id": 398
+   "id": 393
   },
   {
    "soldOut": false,
@@ -7432,7 +7342,7 @@
    "price": 2800,
    "priceText": "ADV.¥2800(+1D) DOOR.¥3300(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 399
+   "id": 394
   },
   {
    "soldOut": false,
@@ -7450,7 +7360,7 @@
    "price": 5500,
    "priceText": "￥5,500 / 未定",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 400
+   "id": 395
   },
   {
    "soldOut": false,
@@ -7468,7 +7378,7 @@
    "price": 3300,
    "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
    "url": "https://pit-inn.com/artist_live_info/261126nobie/",
-   "id": 401
+   "id": 396
   },
   {
    "soldOut": false,
@@ -7486,7 +7396,7 @@
    "price": 2000,
    "priceText": "Start: 19:30 / Adv: ¥2,000 (D別) / Door: ¥2,500 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/26/buddha-jane-1st-ep%e3%80%8cwa%e3%80%8drelease-tour-%e3%80%8cwa-wa-wa%e3%80%8d/",
-   "id": 402
+   "id": 397
   },
   {
    "soldOut": false,
@@ -7504,7 +7414,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020032.php",
-   "id": 403
+   "id": 398
   },
   {
    "soldOut": false,
@@ -7522,7 +7432,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020087.php",
-   "id": 404
+   "id": 399
   },
   {
    "soldOut": false,
@@ -7540,7 +7450,7 @@
    "price": null,
    "priceText": "OPEN：22:00 DOOR 2000JPY w/o 1D",
    "url": "https://www.metro.ne.jp/schedule/261126/",
-   "id": 405
+   "id": 400
   },
   {
    "soldOut": false,
@@ -7558,7 +7468,7 @@
    "price": null,
    "priceText": "ADV  / DOOR ",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 406
+   "id": 401
   },
   {
    "soldOut": false,
@@ -7576,7 +7486,7 @@
    "price": 5000,
    "priceText": "前⽅Sチケット ￥5,000 / Aチケット ￥3,000 / Bチケット(女性専用) ￥2,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018718",
-   "id": 407
+   "id": 402
   },
   {
    "soldOut": false,
@@ -7594,7 +7504,25 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15125/",
-   "id": 408
+   "id": 403
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-27",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "伴田 裕 INTERMIND"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e4%bc%b4%e7%94%b0-%e8%a3%95-intermind-3/",
+   "id": 404
   },
   {
    "soldOut": false,
@@ -7612,7 +7540,7 @@
    "price": 2500,
    "priceText": "￥2,500 / ￥3,000",
    "url": "https://janusosaka.com/schedule/2026-11",
-   "id": 409
+   "id": 405
   },
   {
    "soldOut": true,
@@ -7630,7 +7558,7 @@
    "price": null,
    "priceText": "OPEN：18:00 ｜START 19:00 ＜Thank You!! Sold Out!!＞",
    "url": "https://www.metro.ne.jp/schedule/261127a/",
-   "id": 410
+   "id": 406
   },
   {
    "soldOut": false,
@@ -7648,7 +7576,7 @@
    "price": 5500,
    "priceText": "前売 ¥5500(税込) / 当日 ¥6000(税込)",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018496",
-   "id": 411
+   "id": 407
   },
   {
    "soldOut": false,
@@ -7666,7 +7594,7 @@
    "price": 6000,
    "priceText": "前売 全自由￥6,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018604",
-   "id": 412
+   "id": 408
   },
   {
    "soldOut": false,
@@ -7684,7 +7612,7 @@
    "price": 3000,
    "priceText": "CHARGE.¥3000(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 413
+   "id": 409
   },
   {
    "soldOut": false,
@@ -7702,7 +7630,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020000.php",
-   "id": 414
+   "id": 410
   },
   {
    "soldOut": false,
@@ -7720,7 +7648,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019858.php",
-   "id": 415
+   "id": 411
   },
   {
    "soldOut": false,
@@ -7738,7 +7666,7 @@
    "price": 4000,
    "priceText": "ADV ¥4,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/anorak_20261127",
-   "id": 416
+   "id": 412
   },
   {
    "soldOut": false,
@@ -7756,7 +7684,7 @@
    "price": 2000,
    "priceText": "[open] 19:00 / [start] 19:30 [adv] \\2000 / [door] \\2500",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 417
+   "id": 413
   },
   {
    "soldOut": false,
@@ -7774,7 +7702,7 @@
    "price": 5000,
    "priceText": "￥5,000（1ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261127honda/",
-   "id": 418
+   "id": 414
   },
   {
    "soldOut": false,
@@ -7792,7 +7720,25 @@
    "price": 7700,
    "priceText": "ADV DAY：￥7,700 DAY(U18)：￥5,500 ALL：￥9,900 / DOOR 未定",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 419
+   "id": 415
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-28",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": "NewCD We Are Always Searching 発売記念ライブ"
+   },
+   "artist": {
+    "ja": "本川悠平トリオ"
+   },
+   "genre": "jazz",
+   "price": 2500,
+   "priceText": "￥2,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/%e6%9c%ac%e5%b7%9d%e6%82%a0%e5%b9%b3%e3%83%88%e3%83%aa%e3%82%aa/",
+   "id": 416
   },
   {
    "soldOut": false,
@@ -7810,7 +7756,7 @@
    "price": 6000,
    "priceText": "前売 ￥6,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018821",
-   "id": 420
+   "id": 417
   },
   {
    "soldOut": false,
@@ -7828,7 +7774,7 @@
    "price": 4500,
    "priceText": "ADV ・一般 ¥4,500(税込・ドリンクチャージ別) ・U-18 ¥3,000(税込・ドリンクチャージ別)",
    "url": "https://www.liquidroom.net/schedule/nekosezo_20261128",
-   "id": 421
+   "id": 418
   },
   {
    "soldOut": false,
@@ -7846,7 +7792,7 @@
    "price": 2800,
    "priceText": "[open] 17:30 / [start] 18:00 [adv] \\2800 / [door] \\3300",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 422
+   "id": 419
   },
   {
    "soldOut": false,
@@ -7864,7 +7810,7 @@
    "price": 6000,
    "priceText": "前売 スタンディング¥6,000",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018441",
-   "id": 423
+   "id": 420
   },
   {
    "soldOut": false,
@@ -7882,7 +7828,7 @@
    "price": 5000,
    "priceText": "前売 立見￥5,000 / 立見学割 ￥3,000",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018507",
-   "id": 424
+   "id": 421
   },
   {
    "soldOut": false,
@@ -7900,7 +7846,7 @@
    "price": 3000,
    "priceText": "ADV&DOOR.¥3000(+1D) U20.¥2000(+1D) ※要身分証",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 425
+   "id": 422
   },
   {
    "soldOut": false,
@@ -7918,7 +7864,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019898.php",
-   "id": 426
+   "id": 423
   },
   {
    "soldOut": false,
@@ -7936,7 +7882,43 @@
    "price": 5000,
    "priceText": "￥5,000（1ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261128honda/",
-   "id": 427
+   "id": 424
+  },
+  {
+   "soldOut": false,
+   "venue": "metro",
+   "date": "2026-11-28",
+   "open": "23:00",
+   "start": "23:00",
+   "title": {
+    "ja": "DJ KRUSH “TOKYØHUM” JAPAN TOUR 2026 in Kyoto"
+   },
+   "artist": {
+    "ja": "DJ KRUSH “TOKYØHUM” JAPAN TOUR 2026 in Kyoto"
+   },
+   "genre": "various",
+   "price": 3000,
+   "priceText": "OPEN：23:00 前売¥3,000 ドリンク代別途",
+   "url": "https://www.metro.ne.jp/schedule/261128/",
+   "id": 425
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-29",
+   "open": null,
+   "start": null,
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "レンタル"
+   },
+   "genre": "jazz",
+   "price": null,
+   "priceText": null,
+   "url": "https://pit-inn.com/artist_live_info/%e3%83%ac%e3%83%b3%e3%82%bf%e3%83%ab-99/",
+   "id": 426
   },
   {
    "soldOut": false,
@@ -7948,13 +7930,13 @@
     "ja": "Tune in Mind"
    },
    "artist": {
-    "ja": "Lunchtime Dead…& more"
+    "ja": "Lunchtime Dead, ヴィンセンツ…& more"
    },
    "genre": "rock",
    "price": 3000,
    "priceText": "ADV.¥3000(+1D) DOOR.¥3500(+1D)",
    "url": "https://www.ufoclub.jp/schedule/next-month/",
-   "id": 428
+   "id": 427
   },
   {
    "soldOut": false,
@@ -7972,7 +7954,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15179/",
-   "id": 429
+   "id": 428
   },
   {
    "soldOut": false,
@@ -7990,7 +7972,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www.unit-tokyo.com/schedule/15184/",
-   "id": 430
+   "id": 429
   },
   {
    "soldOut": false,
@@ -8008,7 +7990,7 @@
    "price": 4800,
    "priceText": "前売 All Standing 4,800円（税込）",
    "url": "https://www.club-quattro.com/nagoya/schedule/detail/?cd=018646",
-   "id": 431
+   "id": 430
   },
   {
    "soldOut": false,
@@ -8026,7 +8008,7 @@
    "price": 6000,
    "priceText": "前売 ￥6,000",
    "url": "https://www.club-quattro.com/umeda/schedule/detail/?cd=018440",
-   "id": 432
+   "id": 431
   },
   {
    "soldOut": false,
@@ -8044,7 +8026,7 @@
    "price": 2500,
    "priceText": "[open] 17:00 / [start] 17:15 [adv] \\2500 / [door] \\3000",
    "url": "http://livehouse-nano.com/schedule_next.php",
-   "id": 433
+   "id": 432
   },
   {
    "soldOut": true,
@@ -8062,7 +8044,7 @@
    "price": null,
    "priceText": "ADV SOLD OUT",
    "url": "https://bigcat-live.com/2026/11",
-   "id": 434
+   "id": 433
   },
   {
    "soldOut": false,
@@ -8080,7 +8062,7 @@
    "price": null,
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/019901.php",
-   "id": 435
+   "id": 434
   },
   {
    "soldOut": false,
@@ -8098,7 +8080,7 @@
    "price": 5500,
    "priceText": "前売 ￥5,500 / 当日 ￥6,500",
    "url": "https://www.club-quattro.com/shibuya/schedule/detail/?cd=018669",
-   "id": 436
+   "id": 435
   },
   {
    "soldOut": false,
@@ -8116,7 +8098,7 @@
    "price": 3000,
    "priceText": "Start: 18:30 / Adv: ¥3,000 (D別) / Door: ¥4,000 (D別)",
    "url": "https://socorefactory.com/schedule/2026/11/29/gake2026/",
-   "id": 437
+   "id": 436
   },
   {
    "soldOut": false,
@@ -8134,6 +8116,24 @@
    "price": 5000,
    "priceText": "￥5,000（1ドリンク付）",
    "url": "https://pit-inn.com/artist_live_info/261129honda/",
+   "id": 437
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-11-30",
+   "open": "13:30",
+   "start": "14:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "AAS"
+   },
+   "genre": "jazz",
+   "price": 2000,
+   "priceText": "￥2,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/aas-30/",
    "id": 438
   },
   {
@@ -8218,7 +8218,7 @@
     "ja": "ぬかどこ"
    },
    "artist": {
-    "ja": "幸頭, Su-propagation, 長谷川 慈音…& more"
+    "ja": "幸頭, Su-propagation, 長谷川 慈音(布置)…& more"
    },
    "genre": "rock",
    "price": 2800,
@@ -8279,6 +8279,564 @@
    "priceText": null,
    "url": "https://www-shibuya.jp/schedule/020054.php",
    "id": 446
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-01",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "渋さ知らズ オーケストラ"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261201shibusa/",
+   "id": 447
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-02",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "石田幹雄 トリオ"
+   },
+   "genre": "jazz",
+   "price": 3300,
+   "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261202ishida/",
+   "id": 448
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-03",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "Josei Session"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261203josei/",
+   "id": 449
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-04",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "如意ン棒"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 4,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261204nyoinbow/",
+   "id": 450
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-05",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "ケイ赤城 トリオ"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261205kei/",
+   "id": 451
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-06",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "“Yup” CD発売記念ライブ"
+   },
+   "artist": {
+    "ja": "Sup"
+   },
+   "genre": "jazz",
+   "price": 3850,
+   "priceText": "予約¥3,850 当日¥4,400（共に、1ドリンク付）",
+   "url": "https://pit-inn.com/artist_live_info/261206sup/",
+   "id": 452
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-07",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "ルディ・ノマーディ"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261207ludi%e3%83%bbnomadi/",
+   "id": 453
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-08",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "大野俊三 Special Session"
+   },
+   "genre": "jazz",
+   "price": 6050,
+   "priceText": "前売り:￥6,050税込 ￥5,500＋税（1DRINK付) 当日: ￥6,600税込 ￥6,000＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261208ohno/",
+   "id": 454
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-09",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "岡 淳 SESSION"
+   },
+   "genre": "jazz",
+   "price": 3300,
+   "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261209oka/",
+   "id": 455
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-10",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "アルタードステイツ"
+   },
+   "artist": {
+    "ja": "Altered States 恒例年末 3デイズ"
+   },
+   "genre": "jazz",
+   "price": 3300,
+   "priceText": "￥3,300税込 ￥3,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261210altered/",
+   "id": 456
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-11",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "アルタードステイツ with Guest"
+   },
+   "artist": {
+    "ja": "Altered States 恒例年末 3デイズ"
+   },
+   "genre": "jazz",
+   "price": 3850,
+   "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261211altered/",
+   "id": 457
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-12",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "昭和のアニソン、テレビ主題歌特集 2"
+   },
+   "artist": {
+    "ja": "Altered States 恒例年末 3デイズ"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261212altered/",
+   "id": 458
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-13",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "FOTOS"
+   },
+   "genre": "jazz",
+   "price": 3850,
+   "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261213fotos/",
+   "id": 459
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-14",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "THE J. MASTERS with 類家心平、広瀬未来"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261214j-masters/",
+   "id": 460
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-15",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "CD『これから～from now on』発売記念"
+   },
+   "artist": {
+    "ja": "板垣光弘 セクステット"
+   },
+   "genre": "jazz",
+   "price": 3850,
+   "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261215itagaki/",
+   "id": 461
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-16",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "Ortance"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "前売り:￥4,400税込 ￥4,000＋税（1DRINK付) 当日: ￥4,950税込 ￥4,500＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261216ortance/",
+   "id": 462
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-17",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "BCG Republic"
+   },
+   "genre": "jazz",
+   "price": 4000,
+   "priceText": "￥4,000（1ドリンク付）",
+   "url": "https://pit-inn.com/artist_live_info/261217bcg-republic/",
+   "id": 463
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-18",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "ZEK!3"
+   },
+   "genre": "jazz",
+   "price": 3850,
+   "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261218zek3/",
+   "id": 464
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-19",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "菊地成孔 クインテット"
+   },
+   "artist": {
+    "ja": "菊地成孔 3DAYS"
+   },
+   "genre": "jazz",
+   "price": 5500,
+   "priceText": "前売り:￥5,500税込 ￥5,000＋税（1DRINK付) 当日: ￥6,050税込 ￥5,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261219kikuchi/",
+   "id": 465
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-20",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "ピアノトリオ A.P.J."
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261220a-p-j/",
+   "id": 466
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-21",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "究極のTRIO＋ONE"
+   },
+   "artist": {
+    "ja": "梅津和時 冬のぶりぶり2026"
+   },
+   "genre": "jazz",
+   "price": 3850,
+   "priceText": "￥3,850税込 ￥3,500＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261221umezu/",
+   "id": 467
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-22",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "歌は宙へ"
+   },
+   "artist": {
+    "ja": "梅津和時 冬のぶりぶり2026"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261222umezu/",
+   "id": 468
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-23",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "キャバレー大忘年会！"
+   },
+   "artist": {
+    "ja": "梅津和時 冬のぶりぶり2026"
+   },
+   "genre": "jazz",
+   "price": 6600,
+   "priceText": "前売り:￥6,600税込 ￥6,000＋税（1DRINK付) 当日: ￥7,150税込 ￥6,500＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261223umezu/",
+   "id": 469
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-24",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "デュオ with 大友良英"
+   },
+   "artist": {
+    "ja": "菊地成孔 3DAYS"
+   },
+   "genre": "jazz",
+   "price": 5500,
+   "priceText": "前売り:￥5,500税込 ￥5,000＋税（1DRINK付) 当日: ￥6,050税込 ￥5,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261224kikuchi/",
+   "id": 470
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-25",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "菊地成孔 トリオ"
+   },
+   "artist": {
+    "ja": "菊地成孔 3DAYS"
+   },
+   "genre": "jazz",
+   "price": 5500,
+   "priceText": "前売り:￥5,500税込 ￥5,000＋税（1DRINK付) 当日: ￥6,050税込 ￥5,500＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261225kikuchi/",
+   "id": 471
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-26",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "ONJQ"
+   },
+   "artist": {
+    "ja": "PITINN年末恒例 大友良英 4デイズ８連続コンサート「即興！」"
+   },
+   "genre": "jazz",
+   "price": 4950,
+   "priceText": "前売り:￥4,950税込 ￥4,500＋税（1DRINK付) 当日: ￥5,500税込 ￥5,000＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261226yoruotomo/",
+   "id": 472
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-27",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "大友良英＋三田村管打団？"
+   },
+   "artist": {
+    "ja": "PITINN年末恒例 大友良英 4デイズ８連続コンサート「即興！」"
+   },
+   "genre": "jazz",
+   "price": 5500,
+   "priceText": "前売り:￥5,500税込 ￥5,000＋税（1DRINK付) 当日: ￥6,050税込 ￥5,500＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261227yoruotomo/",
+   "id": 473
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-28",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "大友良英+松丸 契 DUO アルバム『Shutsumin』発売記念ライブ"
+   },
+   "artist": {
+    "ja": "PITINN年末恒例 大友良英 4デイズ８連続コンサート「即興！」"
+   },
+   "genre": "jazz",
+   "price": 4950,
+   "priceText": "前売り:￥4,950税込 ￥4,500＋税（1DRINK付) 当日: ￥5,500税込 ￥5,000＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261228yoruotomo/",
+   "id": 474
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-29",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": "大友良英 スペシャルビッグバンド Plays BonDance and Something Else"
+   },
+   "artist": {
+    "ja": "PITINN年末恒例 大友良英 4デイズ８連続コンサート「即興！」"
+   },
+   "genre": "jazz",
+   "price": 7700,
+   "priceText": "前売り:￥7,700税込 ￥7,000＋税（1DRINK付) 当日: ￥8,250税込 ¥7,500＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261229yoruotomo/",
+   "id": 475
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-30",
+   "open": "19:00",
+   "start": "19:30",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "林 栄一 MAZURU ORCHESTRA"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付)",
+   "url": "https://pit-inn.com/artist_live_info/261230mazuru/",
+   "id": 476
+  },
+  {
+   "soldOut": false,
+   "venue": "pitinn",
+   "date": "2026-12-31",
+   "open": "18:30",
+   "start": "19:00",
+   "title": {
+    "ja": ""
+   },
+   "artist": {
+    "ja": "2026〜2027 年末スペシャルライブ"
+   },
+   "genre": "jazz",
+   "price": 4400,
+   "priceText": "￥4,400税込 ￥4,000＋税（1DRINK付) 11/1(Sun) 11時より、新宿ピットインにて、チケット(予約可)前売り開始。",
+   "url": "https://pit-inn.com/artist_live_info/261231year-end/",
+   "id": 477
   }
  ]
 }

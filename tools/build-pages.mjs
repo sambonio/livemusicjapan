@@ -7,7 +7,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const ORIGIN = "https://livemusicjapan.app";
-const CONTACT_URL = "https://github.com/sambonio/livemusicjapan/issues";
+const CONTACT_URL = "mailto:hello@livemusicjapan.app";
 const ADS = `<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6255445381875860" crossorigin="anonymous"></script>`;
 const CONTENT_DATE = "2026-11-05"; // Change when guide or venue text is edited
 const CITY_LIMIT = 60;

@@ -1,0 +1,27 @@
+/* Static city, venue, guide and about pages, plus the intro section on the home page. Builds on style.css. */
+.page { display: block; line-height: 1.65; }
+.page h1 { font-size: 1.7rem; line-height: 1.25; margin: 8px 0 12px; text-wrap: balance; }
+.page h2 { font-size: 1.25rem; line-height: 1.3; margin: 28px 0 8px; }
+.page p { margin: 0 0 12px; }
+.page ul { padding-left: 20px; margin: 0 0 12px; }
+.page li { margin-bottom: 6px; }
+.page a, .intro a { color: var(--accent); }
+.page .card { margin-bottom: 10px; }
+.page .card p { margin: 4px 0 0; }
+.page .day { margin: 18px 0 8px; }
+.brand { color: #fff; font-size: 1.15rem; font-weight: 700; text-decoration: none; }
+.crumb { font-size: .85rem; color: var(--muted); }
+.card .gig { font-size: 1.05rem; margin: 0 0 4px; overflow-wrap: anywhere; }
+.subtitle { overflow-wrap: anywhere; }
+.facts, .venue-list { list-style: none; padding: 0 !important; }
+.phrases { list-style: none; padding: 0 !important; display: grid; gap: 10px; }
+.phrases li { background: var(--card); border: 1px solid var(--line); border-radius: 12px; padding: 12px 14px; margin: 0; }
+.phrases span { font-size: 1.1rem; font-weight: 600; }
+.page table { width: 100%; border-collapse: collapse; margin-bottom: 12px; font-size: .92rem; }
+.page th, .page td { text-align: left; padding: 8px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.intro { max-width: 720px; margin: 8px auto 0; padding: 16px; border-top: 1px solid var(--line); line-height: 1.65; }
+.intro h2 { font-size: 1.2rem; margin: 0 0 8px; }
+.intro p { margin: 0 0 10px; }
+.intro nav, .sitefoot nav { display: flex; flex-wrap: wrap; gap: 6px 14px; margin-bottom: 10px; font-size: .9rem; }
+.sitefoot { max-width: 720px; margin: 16px auto 0; padding: 16px; border-top: 1px solid var(--line); }
+.sitefoot a { color: var(--muted); }
